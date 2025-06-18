@@ -6,3 +6,8 @@
 *.pyo
 *.pyd
 *.db
+# Large model files
+models/*.gguf
+*.log
+__pycache__/
+*.pyc
