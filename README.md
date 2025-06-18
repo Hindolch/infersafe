@@ -1,10 +1,3 @@
-You're absolutely right — the **autoscaling logic** is mentioned in the features table, but not explicitly explained in the **architecture** or **system design narrative**. Let me update the relevant parts so it better reflects your effort on autoscaling.
-
----
-
-### ✅ Here is the improved `README.md` with **autoscaling clearly emphasized**:
-
-````markdown
 # 🚨 InferSafe
 
 **InferSafe** is a production-grade, self-healing LLM inference infrastructure inspired by companies like Together.ai. Built with modularity, resilience, and scalability in mind, it supports:
