@@ -39,7 +39,9 @@ INFERENCE_TIMEOUT = 10  # seconds
 MODEL_PATH = os.path.join(os.path.dirname(__file__), "..", "models", "tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf")
 MODEL_PATH = os.path.abspath(MODEL_PATH)
 
-model = TinyLLamaModel(model_path=MODEL_PATH)
+if os.getenv("TESTING") != "1":
+    model = TinyLLamaModel(model_path=MODEL_PATH)
+
 model_manager = MultiModelManager(
     num_workers=NUM_MODEL_WORKERS,
     model_path=MODEL_PATH
