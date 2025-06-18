@@ -2,6 +2,13 @@ import pytest
 import asyncio
 import httpx
 
+import os
+import pytest
+
+if os.getenv("CI") == "true":
+    pytest.skip("Skipping load test in CI: server not running", allow_module_level=True)
+
+
 MAX_RETRIES = 2
 
 async def send_request(i):
