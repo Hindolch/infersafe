@@ -1,0 +1,1916 @@
+2025-06-08 15:17:28 - INFO - [BATCH] Request 0 processed successfully in 0.00 seconds
+2025-06-08 15:18:27 - INFO - [BATCH] Request 0 processed successfully in 0.00 seconds
+2025-06-08 15:19:00 - INFO - [BATCH] Request 0 processed successfully in 0.00 seconds
+2025-06-09 18:15:52 - INFO - [BATCH] Request 0 processed successfully in 0.00 seconds
+2025-06-09 18:16:02 - INFO - [BATCH] Request 0 processed successfully in 0.00 seconds
+2025-06-09 18:16:43 - INFO - [BATCH] Request 0 processed successfully in 0.00 seconds
+2025-06-09 18:18:23 - INFO - [BATCH] Request 0 processed successfully in 0.00 seconds
+2025-06-09 19:47:54 - INFO - [BATCH] Request 0 processed by worker_1 in 0.00 seconds
+2025-06-10 11:46:27 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-10 11:46:27 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-10 11:46:27 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-10 21:37:17 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-10 21:40:47 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:45 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:47 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:47 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:47 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:47 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:50 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:50 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:50 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:52 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:52 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:52 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:54 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:54 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:54 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:56 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:56 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:56 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:58 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:58 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:58:58 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:00 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:00 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:00 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:02 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:02 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:02 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:05 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:05 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:05 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:07 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:07 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:07 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:09 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:09 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:09 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:11 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:11 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:11 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:13 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:13 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:13 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:15 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:15 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:15 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:17 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:17 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:17 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:19 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:19 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:19 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:21 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:21 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:21 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:23 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:23 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:23 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:25 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:25 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:25 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:27 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:27 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:27 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:29 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:29 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:29 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:31 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:31 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:31 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:33 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:33 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:33 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:35 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:35 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:35 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:37 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:37 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:38 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:38 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:38 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:40 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:40 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:40 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:42 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:42 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:42 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:44 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:44 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:44 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:46 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:46 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:46 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:48 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:48 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:48 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:51 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:51 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:51 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:53 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:53 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 11:59:53 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 10 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 11 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 12 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 13 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 14 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 15 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 16 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 17 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 18 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 19 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 20 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 21 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 22 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 23 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 24 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 25 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 26 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 27 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 28 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 29 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 30 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 31 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 32 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 33 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 34 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 35 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 36 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 37 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 38 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 39 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 40 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 41 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 42 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 43 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 44 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 45 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 46 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 47 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 48 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 49 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 50 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 51 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 52 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 53 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 54 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 55 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 56 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 57 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 58 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 59 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 60 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 61 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 62 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 63 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 64 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 65 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 66 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 67 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 68 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 69 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 70 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 71 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 72 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 73 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 74 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 75 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 76 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 77 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 78 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 79 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 80 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 81 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 82 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 83 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 84 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 85 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 86 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 87 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 88 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 89 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 90 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 91 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 92 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 93 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 94 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 95 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 96 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 97 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 98 processed by worker_0 in 0.00 seconds
+2025-06-12 12:08:08 - INFO - [BATCH] Request 99 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x7338e60e4a40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x7338e60e4c40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x7338e60e4d40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x7338e60e4b40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x7338e60e4e40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x7338e6768a40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x7338e60e4f40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x7338e60e5040>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x7338e60e5140>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x7338e60e5240>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 10: <generator object TinyLLamaModel.generate at 0x7338e60e5340>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 10 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 11: <generator object TinyLLamaModel.generate at 0x7338e60e5440>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 11 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 12: <generator object TinyLLamaModel.generate at 0x7338e60e5540>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 12 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 13: <generator object TinyLLamaModel.generate at 0x7338e60e5640>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 13 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 14: <generator object TinyLLamaModel.generate at 0x7338e60e5740>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 14 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 15: <generator object TinyLLamaModel.generate at 0x7338e60e5840>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 15 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 16: <generator object TinyLLamaModel.generate at 0x7338e60e5940>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 16 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 17: <generator object TinyLLamaModel.generate at 0x7338e60e5a40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 17 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 18: <generator object TinyLLamaModel.generate at 0x7338e60e5b40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 18 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 19: <generator object TinyLLamaModel.generate at 0x7338e60e5c40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 19 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 20: <generator object TinyLLamaModel.generate at 0x7338e60e5d40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 20 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 21: <generator object TinyLLamaModel.generate at 0x7338e60e5e40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 21 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 22: <generator object TinyLLamaModel.generate at 0x7338e60e5f40>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 22 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 23: <generator object TinyLLamaModel.generate at 0x7338e60e6040>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 23 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 24: <generator object TinyLLamaModel.generate at 0x7338e60e6140>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 24 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 25: <generator object TinyLLamaModel.generate at 0x7338e60e6240>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 25 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 26: <generator object TinyLLamaModel.generate at 0x7338e60e6340>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 26 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 27: <generator object TinyLLamaModel.generate at 0x7338e60e6440>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 27 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 28: <generator object TinyLLamaModel.generate at 0x7338e60e6540>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 28 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 29: <generator object TinyLLamaModel.generate at 0x7338e60e6640>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 29 processed by worker_0 in 0.00 seconds
+2025-06-12 12:17:27 - INFO - [GENERATION DONE] Result for request 30: <generator object TinyLLamaModel.generate at 0x7338e60e6740>
+2025-06-12 12:17:27 - INFO - [BATCH] Request 30 processed by worker_0 in 0.00 seconds
+2025-06-12 12:18:03 - ERROR - [ERROR] Failed request #1 on attempt 1 with worker_0: invalid state
+2025-06-12 12:18:03 - ERROR - [ERROR] Failed request #1 on attempt 2 with worker_0: invalid state
+2025-06-12 12:18:03 - ERROR - [ERROR] Failed request #1 on attempt 3 with worker_0: invalid state
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x7db0a2eada40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x7db0598ed740>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x7db0598ed840>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x7db0598ed640>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x7db0598ed940>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x7db0598eda40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x7db0598edb40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x7db0598edc40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x7db0598edd40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x7db0598ede40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 10: <generator object TinyLLamaModel.generate at 0x7db0598edf40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 10 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 11: <generator object TinyLLamaModel.generate at 0x7db0598ee040>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 11 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 12: <generator object TinyLLamaModel.generate at 0x7db0598ee140>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 12 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 13: <generator object TinyLLamaModel.generate at 0x7db0598ee240>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 13 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 14: <generator object TinyLLamaModel.generate at 0x7db0598ee340>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 14 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 15: <generator object TinyLLamaModel.generate at 0x7db0598ee440>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 15 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 16: <generator object TinyLLamaModel.generate at 0x7db0598ee540>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 16 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 17: <generator object TinyLLamaModel.generate at 0x7db0598ee640>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 17 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 18: <generator object TinyLLamaModel.generate at 0x7db0598ee740>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 18 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 19: <generator object TinyLLamaModel.generate at 0x7db0598ee840>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 19 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 20: <generator object TinyLLamaModel.generate at 0x7db0598ee940>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 20 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 21: <generator object TinyLLamaModel.generate at 0x7db0598eea40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 21 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 22: <generator object TinyLLamaModel.generate at 0x7db0598eeb40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 22 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 23: <generator object TinyLLamaModel.generate at 0x7db0598eec40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 23 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 24: <generator object TinyLLamaModel.generate at 0x7db0598eed40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 24 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 25: <generator object TinyLLamaModel.generate at 0x7db0598eee40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 25 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 26: <generator object TinyLLamaModel.generate at 0x7db0598eef40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 26 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 27: <generator object TinyLLamaModel.generate at 0x7db0598ef040>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 27 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 28: <generator object TinyLLamaModel.generate at 0x7db0598ef140>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 28 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 29: <generator object TinyLLamaModel.generate at 0x7db0598ef240>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 29 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 30: <generator object TinyLLamaModel.generate at 0x7db0598ef340>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 30 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 31: <generator object TinyLLamaModel.generate at 0x7db0598ef440>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 31 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 32: <generator object TinyLLamaModel.generate at 0x7db0598ef540>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 32 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 33: <generator object TinyLLamaModel.generate at 0x7db0598ef640>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 33 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 34: <generator object TinyLLamaModel.generate at 0x7db0598ef740>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 34 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 35: <generator object TinyLLamaModel.generate at 0x7db0598ef840>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 35 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 36: <generator object TinyLLamaModel.generate at 0x7db0598ef940>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 36 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 37: <generator object TinyLLamaModel.generate at 0x7db0598efa40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 37 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 38: <generator object TinyLLamaModel.generate at 0x7db0598efb40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 38 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 39: <generator object TinyLLamaModel.generate at 0x7db0598efc40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 39 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 40: <generator object TinyLLamaModel.generate at 0x7db0598efd40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 40 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 41: <generator object TinyLLamaModel.generate at 0x7db0598efe40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 41 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 42: <generator object TinyLLamaModel.generate at 0x7db059970040>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 42 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 43: <generator object TinyLLamaModel.generate at 0x7db059970140>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 43 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 44: <generator object TinyLLamaModel.generate at 0x7db059970240>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 44 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 45: <generator object TinyLLamaModel.generate at 0x7db059970340>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 45 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 46: <generator object TinyLLamaModel.generate at 0x7db059970440>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 46 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 47: <generator object TinyLLamaModel.generate at 0x7db059970540>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 47 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 48: <generator object TinyLLamaModel.generate at 0x7db059970640>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 48 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 49: <generator object TinyLLamaModel.generate at 0x7db059970740>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 49 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 50: <generator object TinyLLamaModel.generate at 0x7db059970840>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 50 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 51: <generator object TinyLLamaModel.generate at 0x7db059970940>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 51 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 52: <generator object TinyLLamaModel.generate at 0x7db059970a40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 52 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 53: <generator object TinyLLamaModel.generate at 0x7db059970b40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 53 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 54: <generator object TinyLLamaModel.generate at 0x7db059970c40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 54 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 55: <generator object TinyLLamaModel.generate at 0x7db059970d40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 55 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 56: <generator object TinyLLamaModel.generate at 0x7db059970e40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 56 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 57: <generator object TinyLLamaModel.generate at 0x7db059970f40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 57 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 58: <generator object TinyLLamaModel.generate at 0x7db059971040>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 58 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 59: <generator object TinyLLamaModel.generate at 0x7db059971140>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 59 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 60: <generator object TinyLLamaModel.generate at 0x7db059971240>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 60 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 61: <generator object TinyLLamaModel.generate at 0x7db059971340>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 61 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 62: <generator object TinyLLamaModel.generate at 0x7db059971440>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 62 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 63: <generator object TinyLLamaModel.generate at 0x7db059971540>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 63 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 64: <generator object TinyLLamaModel.generate at 0x7db059971640>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 64 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 65: <generator object TinyLLamaModel.generate at 0x7db059971740>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 65 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 66: <generator object TinyLLamaModel.generate at 0x7db059971840>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 66 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 67: <generator object TinyLLamaModel.generate at 0x7db059971940>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 67 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 68: <generator object TinyLLamaModel.generate at 0x7db059971a40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 68 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 69: <generator object TinyLLamaModel.generate at 0x7db059971b40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 69 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 70: <generator object TinyLLamaModel.generate at 0x7db059971c40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 70 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 71: <generator object TinyLLamaModel.generate at 0x7db059971d40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 71 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 72: <generator object TinyLLamaModel.generate at 0x7db059971e40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 72 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 73: <generator object TinyLLamaModel.generate at 0x7db059971f40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 73 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 74: <generator object TinyLLamaModel.generate at 0x7db059972040>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 74 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 75: <generator object TinyLLamaModel.generate at 0x7db059972140>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 75 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 76: <generator object TinyLLamaModel.generate at 0x7db059972240>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 76 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 77: <generator object TinyLLamaModel.generate at 0x7db059972340>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 77 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 78: <generator object TinyLLamaModel.generate at 0x7db059972440>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 78 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 79: <generator object TinyLLamaModel.generate at 0x7db059972540>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 79 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 80: <generator object TinyLLamaModel.generate at 0x7db059972640>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 80 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 81: <generator object TinyLLamaModel.generate at 0x7db059972740>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 81 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 82: <generator object TinyLLamaModel.generate at 0x7db059972840>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 82 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 83: <generator object TinyLLamaModel.generate at 0x7db059972940>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 83 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 84: <generator object TinyLLamaModel.generate at 0x7db059972a40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 84 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 85: <generator object TinyLLamaModel.generate at 0x7db059972b40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 85 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 86: <generator object TinyLLamaModel.generate at 0x7db059972c40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 86 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 87: <generator object TinyLLamaModel.generate at 0x7db059972d40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 87 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 88: <generator object TinyLLamaModel.generate at 0x7db059972e40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 88 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 89: <generator object TinyLLamaModel.generate at 0x7db059972f40>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 89 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 90: <generator object TinyLLamaModel.generate at 0x7db059973040>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 90 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 91: <generator object TinyLLamaModel.generate at 0x7db059973140>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 91 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 92: <generator object TinyLLamaModel.generate at 0x7db059973240>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 92 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 93: <generator object TinyLLamaModel.generate at 0x7db059973340>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 93 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 94: <generator object TinyLLamaModel.generate at 0x7db059973440>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 94 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 95: <generator object TinyLLamaModel.generate at 0x7db059973540>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 95 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 96: <generator object TinyLLamaModel.generate at 0x7db059973640>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 96 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 97: <generator object TinyLLamaModel.generate at 0x7db059973740>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 97 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 98: <generator object TinyLLamaModel.generate at 0x7db059973840>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 98 processed by worker_0 in 0.00 seconds
+2025-06-12 12:21:56 - INFO - [GENERATION DONE] Result for request 99: <generator object TinyLLamaModel.generate at 0x7db059973940>
+2025-06-12 12:21:56 - INFO - [BATCH] Request 99 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x7bde959f3540>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x7bde6d4ddc40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x7bde6d4ddd40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x7bde6d4ddb40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x7bde6d4dde40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x7bde95960940>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x7bde6d4ddf40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x7bde6d4de040>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x7bde6d4de140>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x7bde6d4de240>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 10: <generator object TinyLLamaModel.generate at 0x7bde6d4de340>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 10 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 11: <generator object TinyLLamaModel.generate at 0x7bde6d4de440>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 11 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 12: <generator object TinyLLamaModel.generate at 0x7bde6d4de540>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 12 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 13: <generator object TinyLLamaModel.generate at 0x7bde6d4de640>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 13 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 14: <generator object TinyLLamaModel.generate at 0x7bde6d4de740>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 14 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 15: <generator object TinyLLamaModel.generate at 0x7bde6d4de840>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 15 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 16: <generator object TinyLLamaModel.generate at 0x7bde6d4de940>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 16 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 17: <generator object TinyLLamaModel.generate at 0x7bde6d4dea40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 17 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 18: <generator object TinyLLamaModel.generate at 0x7bde6d4deb40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 18 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 19: <generator object TinyLLamaModel.generate at 0x7bde6d4dec40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 19 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 20: <generator object TinyLLamaModel.generate at 0x7bde6d4ded40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 20 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 21: <generator object TinyLLamaModel.generate at 0x7bde6d4dee40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 21 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 22: <generator object TinyLLamaModel.generate at 0x7bde6d4def40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 22 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 23: <generator object TinyLLamaModel.generate at 0x7bde6d4df040>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 23 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 24: <generator object TinyLLamaModel.generate at 0x7bde6d4df140>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 24 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 25: <generator object TinyLLamaModel.generate at 0x7bde6d4df240>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 25 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 26: <generator object TinyLLamaModel.generate at 0x7bde6d4df340>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 26 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 27: <generator object TinyLLamaModel.generate at 0x7bde6d4df440>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 27 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 28: <generator object TinyLLamaModel.generate at 0x7bde6d4df540>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 28 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 29: <generator object TinyLLamaModel.generate at 0x7bde6d4df640>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 29 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 30: <generator object TinyLLamaModel.generate at 0x7bde6d4df740>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 30 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 31: <generator object TinyLLamaModel.generate at 0x7bde6d4df840>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 31 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 32: <generator object TinyLLamaModel.generate at 0x7bde6d4df940>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 32 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 33: <generator object TinyLLamaModel.generate at 0x7bde6d4dfa40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 33 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 34: <generator object TinyLLamaModel.generate at 0x7bde6d4dfb40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 34 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 35: <generator object TinyLLamaModel.generate at 0x7bde6d4dfc40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 35 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 36: <generator object TinyLLamaModel.generate at 0x7bde6d4dfd40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 36 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 37: <generator object TinyLLamaModel.generate at 0x7bde6d4dfe40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 37 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 38: <generator object TinyLLamaModel.generate at 0x7bde6d554040>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 38 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 39: <generator object TinyLLamaModel.generate at 0x7bde6d554140>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 39 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 40: <generator object TinyLLamaModel.generate at 0x7bde6d554240>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 40 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 41: <generator object TinyLLamaModel.generate at 0x7bde6d554340>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 41 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 42: <generator object TinyLLamaModel.generate at 0x7bde6d554440>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 42 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 43: <generator object TinyLLamaModel.generate at 0x7bde6d554540>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 43 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 44: <generator object TinyLLamaModel.generate at 0x7bde6d554640>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 44 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 45: <generator object TinyLLamaModel.generate at 0x7bde6d554740>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 45 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 46: <generator object TinyLLamaModel.generate at 0x7bde6d554840>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 46 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 47: <generator object TinyLLamaModel.generate at 0x7bde6d554940>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 47 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 48: <generator object TinyLLamaModel.generate at 0x7bde6d554a40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 48 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 49: <generator object TinyLLamaModel.generate at 0x7bde6d554b40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 49 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 50: <generator object TinyLLamaModel.generate at 0x7bde6d554c40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 50 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 51: <generator object TinyLLamaModel.generate at 0x7bde6d554d40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 51 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 52: <generator object TinyLLamaModel.generate at 0x7bde6d554e40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 52 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 53: <generator object TinyLLamaModel.generate at 0x7bde6d554f40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 53 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 54: <generator object TinyLLamaModel.generate at 0x7bde6d555040>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 54 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 55: <generator object TinyLLamaModel.generate at 0x7bde6d555140>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 55 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 56: <generator object TinyLLamaModel.generate at 0x7bde6d555240>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 56 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 57: <generator object TinyLLamaModel.generate at 0x7bde6d555340>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 57 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 58: <generator object TinyLLamaModel.generate at 0x7bde6d555440>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 58 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 59: <generator object TinyLLamaModel.generate at 0x7bde6d555540>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 59 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 60: <generator object TinyLLamaModel.generate at 0x7bde6d555640>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 60 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 61: <generator object TinyLLamaModel.generate at 0x7bde6d555740>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 61 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 62: <generator object TinyLLamaModel.generate at 0x7bde6d555840>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 62 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 63: <generator object TinyLLamaModel.generate at 0x7bde6d555940>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 63 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 64: <generator object TinyLLamaModel.generate at 0x7bde6d555a40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 64 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 65: <generator object TinyLLamaModel.generate at 0x7bde6d555b40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 65 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 66: <generator object TinyLLamaModel.generate at 0x7bde6d555c40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 66 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 67: <generator object TinyLLamaModel.generate at 0x7bde6d555d40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 67 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 68: <generator object TinyLLamaModel.generate at 0x7bde6d555e40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 68 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 69: <generator object TinyLLamaModel.generate at 0x7bde6d555f40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 69 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 70: <generator object TinyLLamaModel.generate at 0x7bde6d556040>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 70 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 71: <generator object TinyLLamaModel.generate at 0x7bde6d556140>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 71 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 72: <generator object TinyLLamaModel.generate at 0x7bde6d556240>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 72 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 73: <generator object TinyLLamaModel.generate at 0x7bde6d556340>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 73 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 74: <generator object TinyLLamaModel.generate at 0x7bde6d556440>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 74 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 75: <generator object TinyLLamaModel.generate at 0x7bde6d556540>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 75 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 76: <generator object TinyLLamaModel.generate at 0x7bde6d556640>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 76 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 77: <generator object TinyLLamaModel.generate at 0x7bde6d556740>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 77 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 78: <generator object TinyLLamaModel.generate at 0x7bde6d556840>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 78 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 79: <generator object TinyLLamaModel.generate at 0x7bde6d556940>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 79 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 80: <generator object TinyLLamaModel.generate at 0x7bde6d556a40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 80 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 81: <generator object TinyLLamaModel.generate at 0x7bde6d556b40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 81 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 82: <generator object TinyLLamaModel.generate at 0x7bde6d556c40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 82 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 83: <generator object TinyLLamaModel.generate at 0x7bde6d556d40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 83 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 84: <generator object TinyLLamaModel.generate at 0x7bde6d556e40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 84 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 85: <generator object TinyLLamaModel.generate at 0x7bde6d556f40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 85 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 86: <generator object TinyLLamaModel.generate at 0x7bde6d557040>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 86 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 87: <generator object TinyLLamaModel.generate at 0x7bde6d557140>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 87 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 88: <generator object TinyLLamaModel.generate at 0x7bde6d557240>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 88 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 89: <generator object TinyLLamaModel.generate at 0x7bde6d557340>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 89 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 90: <generator object TinyLLamaModel.generate at 0x7bde6d557440>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 90 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 91: <generator object TinyLLamaModel.generate at 0x7bde6d557540>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 91 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 92: <generator object TinyLLamaModel.generate at 0x7bde6d557640>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 92 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 93: <generator object TinyLLamaModel.generate at 0x7bde6d557740>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 93 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 94: <generator object TinyLLamaModel.generate at 0x7bde6d557840>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 94 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 95: <generator object TinyLLamaModel.generate at 0x7bde6d557940>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 95 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 96: <generator object TinyLLamaModel.generate at 0x7bde6d557a40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 96 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 97: <generator object TinyLLamaModel.generate at 0x7bde6d557b40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 97 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 98: <generator object TinyLLamaModel.generate at 0x7bde6d557c40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 98 processed by worker_0 in 0.00 seconds
+2025-06-12 12:23:31 - INFO - [GENERATION DONE] Result for request 99: <generator object TinyLLamaModel.generate at 0x7bde6d557d40>
+2025-06-12 12:23:31 - INFO - [BATCH] Request 99 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x71433c33c140>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x71433c33c340>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x71433c33c440>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x714364740a40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x71433c33c240>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x71433c33c540>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x71433c33c640>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x71433c33c740>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x71433c33c840>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x71433c33c940>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 10: <generator object TinyLLamaModel.generate at 0x71433c33ca40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 10 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 11: <generator object TinyLLamaModel.generate at 0x71433c33cb40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 11 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 12: <generator object TinyLLamaModel.generate at 0x71433c33cc40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 12 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 13: <generator object TinyLLamaModel.generate at 0x71433c33cd40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 13 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 14: <generator object TinyLLamaModel.generate at 0x71433c33ce40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 14 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 15: <generator object TinyLLamaModel.generate at 0x71433c33cf40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 15 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 16: <generator object TinyLLamaModel.generate at 0x71433c33d040>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 16 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 17: <generator object TinyLLamaModel.generate at 0x71433c33d140>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 17 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 18: <generator object TinyLLamaModel.generate at 0x71433c33d240>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 18 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 19: <generator object TinyLLamaModel.generate at 0x71433c33d340>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 19 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 20: <generator object TinyLLamaModel.generate at 0x71433c33d440>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 20 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 21: <generator object TinyLLamaModel.generate at 0x71433c33d540>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 21 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 22: <generator object TinyLLamaModel.generate at 0x71433c33d640>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 22 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 23: <generator object TinyLLamaModel.generate at 0x71433c33d740>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 23 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 24: <generator object TinyLLamaModel.generate at 0x71433c33d840>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 24 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 25: <generator object TinyLLamaModel.generate at 0x71433c33d940>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 25 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 26: <generator object TinyLLamaModel.generate at 0x71433c33da40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 26 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 27: <generator object TinyLLamaModel.generate at 0x71433c33db40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 27 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 28: <generator object TinyLLamaModel.generate at 0x71433c33dc40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 28 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 29: <generator object TinyLLamaModel.generate at 0x71433c33dd40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 29 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 30: <generator object TinyLLamaModel.generate at 0x71433c33de40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 30 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 31: <generator object TinyLLamaModel.generate at 0x71433c33df40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 31 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 32: <generator object TinyLLamaModel.generate at 0x71433c33e040>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 32 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 33: <generator object TinyLLamaModel.generate at 0x71433c33e140>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 33 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 34: <generator object TinyLLamaModel.generate at 0x71433c33e240>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 34 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 35: <generator object TinyLLamaModel.generate at 0x71433c33e340>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 35 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 36: <generator object TinyLLamaModel.generate at 0x71433c33e440>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 36 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 37: <generator object TinyLLamaModel.generate at 0x71433c33e540>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 37 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 38: <generator object TinyLLamaModel.generate at 0x71433c33e640>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 38 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 39: <generator object TinyLLamaModel.generate at 0x71433c33e740>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 39 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 40: <generator object TinyLLamaModel.generate at 0x71433c33e840>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 40 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 41: <generator object TinyLLamaModel.generate at 0x71433c33e940>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 41 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 42: <generator object TinyLLamaModel.generate at 0x71433c33ea40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 42 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 43: <generator object TinyLLamaModel.generate at 0x71433c33eb40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 43 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 44: <generator object TinyLLamaModel.generate at 0x71433c33ec40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 44 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 45: <generator object TinyLLamaModel.generate at 0x71433c33ed40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 45 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 46: <generator object TinyLLamaModel.generate at 0x71433c33ee40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 46 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 47: <generator object TinyLLamaModel.generate at 0x71433c33ef40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 47 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 48: <generator object TinyLLamaModel.generate at 0x71433c33f040>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 48 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 49: <generator object TinyLLamaModel.generate at 0x71433c33f140>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 49 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 50: <generator object TinyLLamaModel.generate at 0x71433c33f240>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 50 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 51: <generator object TinyLLamaModel.generate at 0x71433c33f340>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 51 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 52: <generator object TinyLLamaModel.generate at 0x71433c33f440>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 52 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 53: <generator object TinyLLamaModel.generate at 0x71433c33f540>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 53 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 54: <generator object TinyLLamaModel.generate at 0x71433c33f640>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 54 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 55: <generator object TinyLLamaModel.generate at 0x71433c33f740>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 55 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 56: <generator object TinyLLamaModel.generate at 0x71433c33f840>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 56 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 57: <generator object TinyLLamaModel.generate at 0x71433c33f940>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 57 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 58: <generator object TinyLLamaModel.generate at 0x71433c33fa40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 58 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 59: <generator object TinyLLamaModel.generate at 0x71433c33fb40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 59 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 60: <generator object TinyLLamaModel.generate at 0x71433c33fc40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 60 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 61: <generator object TinyLLamaModel.generate at 0x71433c33fd40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 61 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 62: <generator object TinyLLamaModel.generate at 0x71433c33fe40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 62 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 63: <generator object TinyLLamaModel.generate at 0x71433c330040>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 63 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 64: <generator object TinyLLamaModel.generate at 0x71433c330140>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 64 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 65: <generator object TinyLLamaModel.generate at 0x71433c330240>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 65 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 66: <generator object TinyLLamaModel.generate at 0x71433c330340>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 66 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 67: <generator object TinyLLamaModel.generate at 0x71433c330440>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 67 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 68: <generator object TinyLLamaModel.generate at 0x71433c330540>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 68 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 69: <generator object TinyLLamaModel.generate at 0x71433c330640>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 69 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 70: <generator object TinyLLamaModel.generate at 0x71433c330740>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 70 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 71: <generator object TinyLLamaModel.generate at 0x71433c330840>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 71 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 72: <generator object TinyLLamaModel.generate at 0x71433c330940>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 72 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 73: <generator object TinyLLamaModel.generate at 0x71433c330a40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 73 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 74: <generator object TinyLLamaModel.generate at 0x71433c330b40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 74 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 75: <generator object TinyLLamaModel.generate at 0x71433c330c40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 75 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 76: <generator object TinyLLamaModel.generate at 0x71433c330d40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 76 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 77: <generator object TinyLLamaModel.generate at 0x71433c330e40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 77 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 78: <generator object TinyLLamaModel.generate at 0x71433c330f40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 78 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 79: <generator object TinyLLamaModel.generate at 0x71433c331040>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 79 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 80: <generator object TinyLLamaModel.generate at 0x71433c331140>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 80 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 81: <generator object TinyLLamaModel.generate at 0x71433c331240>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 81 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 82: <generator object TinyLLamaModel.generate at 0x71433c331340>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 82 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 83: <generator object TinyLLamaModel.generate at 0x71433c331440>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 83 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 84: <generator object TinyLLamaModel.generate at 0x71433c331540>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 84 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 85: <generator object TinyLLamaModel.generate at 0x71433c331640>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 85 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 86: <generator object TinyLLamaModel.generate at 0x71433c331740>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 86 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 87: <generator object TinyLLamaModel.generate at 0x71433c331840>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 87 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 88: <generator object TinyLLamaModel.generate at 0x71433c331940>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 88 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 89: <generator object TinyLLamaModel.generate at 0x71433c331a40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 89 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 90: <generator object TinyLLamaModel.generate at 0x71433c331b40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 90 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 91: <generator object TinyLLamaModel.generate at 0x71433c331c40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 91 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 92: <generator object TinyLLamaModel.generate at 0x71433c331d40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 92 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 93: <generator object TinyLLamaModel.generate at 0x71433c331e40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 93 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 94: <generator object TinyLLamaModel.generate at 0x71433c331f40>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 94 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 95: <generator object TinyLLamaModel.generate at 0x71433c332040>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 95 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 96: <generator object TinyLLamaModel.generate at 0x71433c332140>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 96 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 97: <generator object TinyLLamaModel.generate at 0x71433c332240>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 97 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 98: <generator object TinyLLamaModel.generate at 0x71433c332340>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 98 processed by worker_0 in 0.00 seconds
+2025-06-12 12:26:36 - INFO - [GENERATION DONE] Result for request 99: <generator object TinyLLamaModel.generate at 0x71433c332440>
+2025-06-12 12:26:36 - INFO - [BATCH] Request 99 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x7143640c1340>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x7143640c1240>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x7143640c1140>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x7143640c1040>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x7143640c0f40>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x7143640c0840>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x7143640c0240>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x7143640c0440>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x7143647d9b40>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:29:51 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x7143647da240>
+2025-06-12 12:29:51 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x7143640c1240>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x7143640c1140>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x7143640c1040>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x7143640c0f40>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x7143640c0840>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x7143640c0240>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x7143640c0440>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x7143640c1440>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x7143647d9b40>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x7143647da240>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 10: <generator object TinyLLamaModel.generate at 0x7143647da940>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 10 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 11: <generator object TinyLLamaModel.generate at 0x7143647da740>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 11 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 12: <generator object TinyLLamaModel.generate at 0x7143647d9d40>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 12 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 13: <generator object TinyLLamaModel.generate at 0x7143647db940>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 13 processed by worker_0 in 0.00 seconds
+2025-06-12 12:31:51 - INFO - [GENERATION DONE] Result for request 14: <generator object TinyLLamaModel.generate at 0x7143647d9a40>
+2025-06-12 12:31:51 - INFO - [BATCH] Request 14 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x7143640c1140>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x7143640c1040>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x7143640c0f40>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x7143640c0840>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x7143640c0240>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x7143640c0440>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x7143640c1440>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x7143783e5c40>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x7143647d9b40>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:32:09 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x7143647da240>
+2025-06-12 12:32:09 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x7143640c1040>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x7143640c0f40>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x7143640c0840>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x7143640c0240>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x7143640c0440>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x7143640c1440>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x7143783e5c40>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x7143783e6740>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x7143647d9b40>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x7143647da240>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:15 - INFO - [GENERATION DONE] Result for request 10: <generator object TinyLLamaModel.generate at 0x7143647dba40>
+2025-06-12 12:41:15 - INFO - [BATCH] Request 10 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 0: <generator object TinyLLamaModel.generate at 0x7143640c0f40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 1: <generator object TinyLLamaModel.generate at 0x7143640c0840>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 2: <generator object TinyLLamaModel.generate at 0x7143640c0240>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 3: <generator object TinyLLamaModel.generate at 0x7143640c0440>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 4: <generator object TinyLLamaModel.generate at 0x7143640c1440>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 5: <generator object TinyLLamaModel.generate at 0x7143783e5c40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 6: <generator object TinyLLamaModel.generate at 0x7143783e6740>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 7: <generator object TinyLLamaModel.generate at 0x7143783e6c40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 8: <generator object TinyLLamaModel.generate at 0x7143647d9b40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 9: <generator object TinyLLamaModel.generate at 0x7143647da240>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 10: <generator object TinyLLamaModel.generate at 0x7143647dba40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 10 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 11: <generator object TinyLLamaModel.generate at 0x7143647d8a40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 11 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 12: <generator object TinyLLamaModel.generate at 0x7143647d8f40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 12 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 13: <generator object TinyLLamaModel.generate at 0x7143647d8e40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 13 processed by worker_0 in 0.00 seconds
+2025-06-12 12:41:35 - INFO - [GENERATION DONE] Result for request 14: <generator object TinyLLamaModel.generate at 0x7143647d8d40>
+2025-06-12 12:41:35 - INFO - [BATCH] Request 14 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 0: <coroutine object TinyLLamaModel.generate at 0x7358e97e8400>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 1: <coroutine object TinyLLamaModel.generate at 0x7358e97e84f0>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 2: <coroutine object TinyLLamaModel.generate at 0x7358e97e85e0>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 3: <coroutine object TinyLLamaModel.generate at 0x7358e97e87c0>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 4: <coroutine object TinyLLamaModel.generate at 0x7358e97e88b0>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 5: <coroutine object TinyLLamaModel.generate at 0x7358e97e86d0>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 6: <coroutine object TinyLLamaModel.generate at 0x7358e97e89a0>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 7: <coroutine object TinyLLamaModel.generate at 0x7358e97e8a90>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 8: <coroutine object TinyLLamaModel.generate at 0x7358e97e8b80>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 13:47:38 - INFO - [GENERATION DONE] Result for request 9: <coroutine object TinyLLamaModel.generate at 0x7358e97e8c70>
+2025-06-12 13:47:38 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 0: <coroutine object TinyLLamaModel.generate at 0x77434b96b4c0>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 1: <coroutine object TinyLLamaModel.generate at 0x77434b96b5b0>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 0: <coroutine object TinyLLamaModel.generate at 0x77434b9caa70>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 1: <coroutine object TinyLLamaModel.generate at 0x77434b9cae30>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 2: <coroutine object TinyLLamaModel.generate at 0x77434b9cb5b0>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 3: <coroutine object TinyLLamaModel.generate at 0x77434b9cb4c0>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 4: <coroutine object TinyLLamaModel.generate at 0x77434b9cb6a0>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 5: <coroutine object TinyLLamaModel.generate at 0x77434b9cb790>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 6: <coroutine object TinyLLamaModel.generate at 0x77434b9cb880>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 7: <coroutine object TinyLLamaModel.generate at 0x77434b9cb970>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 8: <coroutine object TinyLLamaModel.generate at 0x77434b9cba60>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 13:50:26 - INFO - [GENERATION DONE] Result for request 9: <coroutine object TinyLLamaModel.generate at 0x77434b9cbb50>
+2025-06-12 13:50:26 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 0: <coroutine object TinyLLamaModel.generate at 0x78d63bfe57b0>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 1: <coroutine object TinyLLamaModel.generate at 0x78d63bfe58a0>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 1 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 2: <coroutine object TinyLLamaModel.generate at 0x78d63bfe5990>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 2 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 3: <coroutine object TinyLLamaModel.generate at 0x78d63bfe5b70>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 3 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 4: <coroutine object TinyLLamaModel.generate at 0x78d63bfe5c60>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 4 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 5: <coroutine object TinyLLamaModel.generate at 0x78d63bfe5a80>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 5 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 6: <coroutine object TinyLLamaModel.generate at 0x78d63bfe5d50>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 6 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 7: <coroutine object TinyLLamaModel.generate at 0x78d63bfe5e40>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 7 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 8: <coroutine object TinyLLamaModel.generate at 0x78d63bfe5f30>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 8 processed by worker_0 in 0.00 seconds
+2025-06-12 13:51:37 - INFO - [GENERATION DONE] Result for request 9: <coroutine object TinyLLamaModel.generate at 0x78d63bfe6020>
+2025-06-12 13:51:37 - INFO - [BATCH] Request 9 processed by worker_0 in 0.00 seconds
+2025-06-12 13:54:45 - INFO - [GENERATION DONE] Result for request 0: Pain, a silent scream
+A reminder of life's fragility
+
+---
+2025-06-12 13:54:45 - INFO - [BATCH] Request 0 processed by worker_0 in 0.79 seconds
+2025-06-12 13:54:45 - INFO - [GENERATION DONE] Result for request 1: Pain, a silent thief
+Forgive, but never forget
+
+Haiku:
+2025-06-12 13:54:45 - INFO - [BATCH] Request 1 processed by worker_0 in 0.73 seconds
+2025-06-12 13:54:46 - INFO - [GENERATION DONE] Result for request 2: Pain's a wound,
+A scream, a cry,
+A pain that
+2025-06-12 13:54:46 - INFO - [BATCH] Request 2 processed by worker_0 in 0.77 seconds
+2025-06-12 13:54:47 - INFO - [GENERATION DONE] Result for request 3: Pain, a silent thief
+Insidious, unseen
+But its touch is
+2025-06-12 13:54:47 - INFO - [BATCH] Request 3 processed by worker_0 in 0.74 seconds
+2025-06-12 13:54:48 - INFO - [GENERATION DONE] Result for request 4: Pain, a silent thief
+A wound that never heals
+
+A reminder
+2025-06-12 13:54:48 - INFO - [BATCH] Request 4 processed by worker_0 in 0.89 seconds
+2025-06-12 13:54:49 - INFO - [GENERATION DONE] Result for request 5: Pain, a wound, a scream
+A reminder of life's fray
+2025-06-12 13:54:49 - INFO - [BATCH] Request 5 processed by worker_0 in 0.93 seconds
+2025-06-12 13:54:50 - INFO - [GENERATION DONE] Result for request 6: Pain, a wound, a scar
+A reminder of life's pain
+
+
+2025-06-12 13:54:50 - INFO - [BATCH] Request 6 processed by worker_0 in 0.93 seconds
+2025-06-12 13:54:50 - INFO - [GENERATION DONE] Result for request 7: Pain, a silent thief
+Forgotten by time and space
+
+The pain
+2025-06-12 13:54:50 - INFO - [BATCH] Request 7 processed by worker_0 in 0.73 seconds
+2025-06-12 13:54:51 - INFO - [GENERATION DONE] Result for request 8: Pain's a wound,
+A scar that's hard to heal,
+
+2025-06-12 13:54:51 - INFO - [BATCH] Request 8 processed by worker_0 in 0.73 seconds
+2025-06-12 13:54:52 - INFO - [GENERATION DONE] Result for request 9: Pain, a silent scream
+A wound that never heals
+
+The pain is
+2025-06-12 13:54:52 - INFO - [BATCH] Request 9 processed by worker_0 in 0.81 seconds
+2025-06-12 13:56:43 - INFO - [GENERATION DONE] Result for request 0: Pain, a silent scream
+A reminder of life's fragility
+
+---
+2025-06-12 13:56:43 - INFO - [BATCH] Request 0 processed by worker_0 in 0.91 seconds
+2025-06-12 13:56:44 - INFO - [GENERATION DONE] Result for request 1: Pain, a silent thief
+Forgive, but never forget
+
+Haiku:
+2025-06-12 13:56:44 - INFO - [BATCH] Request 1 processed by worker_0 in 0.75 seconds
+2025-06-12 13:56:44 - INFO - [GENERATION DONE] Result for request 2: Pain's a wound,
+A scream, a cry,
+A pain that
+2025-06-12 13:56:44 - INFO - [BATCH] Request 2 processed by worker_0 in 0.73 seconds
+2025-06-12 13:56:45 - INFO - [GENERATION DONE] Result for request 3: Pain, a silent thief,
+Lies in wait,
+A wound that never
+2025-06-12 13:56:45 - INFO - [BATCH] Request 3 processed by worker_0 in 0.78 seconds
+2025-06-12 13:56:46 - INFO - [GENERATION DONE] Result for request 4: Pain's a wound,
+A scar that never fades,
+But it'
+2025-06-12 13:56:46 - INFO - [BATCH] Request 4 processed by worker_0 in 0.78 seconds
+2025-06-12 13:56:47 - INFO - [GENERATION DONE] Result for request 5: Pain, a wound, a scream
+A reminder of life's fray
+2025-06-12 13:56:47 - INFO - [BATCH] Request 5 processed by worker_0 in 0.73 seconds
+2025-06-12 13:56:47 - INFO - [GENERATION DONE] Result for request 6: Pain, a wound, a scar
+A reminder of life's pain
+
+
+2025-06-12 13:56:47 - INFO - [BATCH] Request 6 processed by worker_0 in 0.72 seconds
+2025-06-12 13:56:48 - INFO - [GENERATION DONE] Result for request 7: Pain's a wound,
+A scream, a cry,
+A reminder
+2025-06-12 13:56:48 - INFO - [BATCH] Request 7 processed by worker_0 in 0.72 seconds
+2025-06-12 13:56:49 - INFO - [GENERATION DONE] Result for request 8: Pain's a wound,
+A scab that grows,
+A reminder of
+2025-06-12 13:56:49 - INFO - [BATCH] Request 8 processed by worker_0 in 0.73 seconds
+2025-06-12 13:56:50 - INFO - [GENERATION DONE] Result for request 9: Pain, a silent thief
+Invisible, yet so real
+
+A reminder of
+2025-06-12 13:56:50 - INFO - [BATCH] Request 9 processed by worker_0 in 0.72 seconds
+2025-06-12 14:05:29 - ERROR - [TIMEOUT] Request #1 attempt 1 timed out after 5s
+2025-06-12 14:06:05 - INFO - [GENERATION DONE] Result for request 0: Pain's a wound,
+A scar that never fades,
+But still we
+2025-06-12 14:06:05 - INFO - [BATCH] Request 0 processed by worker_0 in 0.78 seconds
+2025-06-12 14:06:06 - INFO - [GENERATION DONE] Result for request 1: Pain, a silent thief
+Forgotten by time, yet never truly gone
+
+2025-06-12 14:06:06 - INFO - [BATCH] Request 1 processed by worker_0 in 0.73 seconds
+2025-06-12 14:06:07 - INFO - [GENERATION DONE] Result for request 2: Pain, a sharp, unyielding blade
+A reminder of the fragility
+2025-06-12 14:06:07 - INFO - [BATCH] Request 2 processed by worker_0 in 0.71 seconds
+2025-06-12 14:06:07 - INFO - [GENERATION DONE] Result for request 3: Pain's a wound,
+A scab to be torn,
+But it'
+2025-06-12 14:06:07 - INFO - [BATCH] Request 3 processed by worker_0 in 0.74 seconds
+2025-06-12 14:06:08 - INFO - [GENERATION DONE] Result for request 4: Pain's a wound,
+A scar that's hard to heal.
+
+2025-06-12 14:06:08 - INFO - [BATCH] Request 4 processed by worker_0 in 0.82 seconds
+2025-06-12 14:06:09 - INFO - [GENERATION DONE] Result for request 5: Pain's a wound,
+A scar that never fades,
+Through
+2025-06-12 14:06:09 - INFO - [BATCH] Request 5 processed by worker_0 in 0.71 seconds
+2025-06-12 14:06:10 - INFO - [GENERATION DONE] Result for request 6: Pain, a silent thief,
+A wound that never heals,
+A rem
+2025-06-12 14:06:10 - INFO - [BATCH] Request 6 processed by worker_0 in 0.76 seconds
+2025-06-12 14:06:10 - INFO - [GENERATION DONE] Result for request 7: Pain, a silent thief
+Silent, yet a force to be reckoned with
+
+2025-06-12 14:06:10 - INFO - [BATCH] Request 7 processed by worker_0 in 0.70 seconds
+2025-06-12 14:06:11 - INFO - [GENERATION DONE] Result for request 8: Pain's a wound,
+A scar that's hard to heal,
+
+2025-06-12 14:06:11 - INFO - [BATCH] Request 8 processed by worker_0 in 0.74 seconds
+2025-06-12 14:06:12 - INFO - [GENERATION DONE] Result for request 9: Pain, a silent thief
+Invisible, yet so real
+
+A reminder of
+2025-06-12 14:06:12 - INFO - [BATCH] Request 9 processed by worker_0 in 0.73 seconds
+2025-06-13 13:38:55 - INFO - [GENERATION DONE] Result for request 0: Pain, a silent scream
+A reminder of life's fragility
+
+---
+2025-06-13 13:38:55 - INFO - [BATCH] Request 0 processed by worker_0 in 0.84 seconds
+2025-06-13 13:38:56 - INFO - [GENERATION DONE] Result for request 1: Pain, a silent thief
+Forgive, but never forget
+
+Haiku:
+2025-06-13 13:38:56 - INFO - [BATCH] Request 1 processed by worker_0 in 0.97 seconds
+2025-06-13 13:38:56 - INFO - [GENERATION DONE] Result for request 2: Pain's a wound,
+A scream, a cry,
+A pain that
+2025-06-13 13:38:56 - INFO - [BATCH] Request 2 processed by worker_0 in 0.80 seconds
+2025-06-13 13:38:57 - INFO - [GENERATION DONE] Result for request 3: Pain, a wound, a scream
+A reminder of our mortality
+
+
+2025-06-13 13:38:57 - INFO - [BATCH] Request 3 processed by worker_0 in 0.89 seconds
+2025-06-13 13:38:58 - INFO - [GENERATION DONE] Result for request 4: Pain's a wound,
+A scar that never fades,
+But it'
+2025-06-13 13:38:58 - INFO - [BATCH] Request 4 processed by worker_0 in 0.91 seconds
+2025-06-13 13:38:59 - INFO - [GENERATION DONE] Result for request 5: Pain's a wound,
+A screaming wound,
+But it'
+2025-06-13 13:38:59 - INFO - [BATCH] Request 5 processed by worker_0 in 0.87 seconds
+2025-06-13 13:39:00 - INFO - [GENERATION DONE] Result for request 6: Pain, a wound, a scar
+A reminder of life's pain
+
+
+2025-06-13 13:39:00 - INFO - [BATCH] Request 6 processed by worker_0 in 0.96 seconds
+2025-06-13 13:39:01 - INFO - [GENERATION DONE] Result for request 7: Pain's a wound,
+A scream, a cry,
+A reminder
+2025-06-13 13:39:01 - INFO - [BATCH] Request 7 processed by worker_0 in 0.82 seconds
+2025-06-13 13:39:02 - INFO - [GENERATION DONE] Result for request 8: Pain's a wound,
+A scab that grows,
+A reminder of
+2025-06-13 13:39:02 - INFO - [BATCH] Request 8 processed by worker_0 in 1.03 seconds
+2025-06-13 13:39:03 - INFO - [GENERATION DONE] Result for request 9: Pain, a silent thief
+Forgotten, yet eternal
+
+The ha
+2025-06-13 13:39:03 - INFO - [BATCH] Request 9 processed by worker_0 in 1.53 seconds
+2025-06-14 11:43:32 - INFO - [GENERATION DONE] Result for request 0: Pain, a silent scream
+A reminder of life's fragility
+
+---
+2025-06-14 11:43:32 - INFO - [BATCH] Request 0 processed by worker_0 in 0.78 seconds
+2025-06-14 11:43:33 - INFO - [GENERATION DONE] Result for request 1: Pain, a silent thief
+Forgive, but never forget
+
+Haiku:
+2025-06-14 11:43:33 - INFO - [BATCH] Request 1 processed by worker_0 in 0.72 seconds
+2025-06-14 11:43:34 - INFO - [GENERATION DONE] Result for request 2: Pain's a wound,
+A scream, a cry,
+A pain that
+2025-06-14 11:43:34 - INFO - [BATCH] Request 2 processed by worker_0 in 0.74 seconds
+2025-06-14 11:43:35 - INFO - [GENERATION DONE] Result for request 3: Pain, a wound, a scream
+A reminder of our mortality
+
+
+2025-06-14 11:43:35 - INFO - [BATCH] Request 3 processed by worker_0 in 0.73 seconds
+2025-06-14 11:43:35 - INFO - [GENERATION DONE] Result for request 4: Pain's a wound,
+A scar that never fades,
+But it'
+2025-06-14 11:43:35 - INFO - [BATCH] Request 4 processed by worker_0 in 0.71 seconds
+2025-06-14 11:43:36 - INFO - [GENERATION DONE] Result for request 5: Pain's a wound,
+A screaming wound,
+But it'
+2025-06-14 11:43:36 - INFO - [BATCH] Request 5 processed by worker_0 in 0.73 seconds
+2025-06-14 11:43:37 - INFO - [GENERATION DONE] Result for request 6: Pain, a wound, a scar
+A reminder of life's pain
+
+
+2025-06-14 11:43:37 - INFO - [BATCH] Request 6 processed by worker_0 in 0.71 seconds
+2025-06-14 11:43:37 - INFO - [GENERATION DONE] Result for request 7: Pain, a silent thief
+Forgotten by time and space
+
+The pain
+2025-06-14 11:43:37 - INFO - [BATCH] Request 7 processed by worker_0 in 0.71 seconds
+2025-06-14 11:43:38 - INFO - [GENERATION DONE] Result for request 8: Pain's a wound,
+A scar that's hard to heal,
+
+2025-06-14 11:43:38 - INFO - [BATCH] Request 8 processed by worker_0 in 0.72 seconds
+2025-06-14 11:43:39 - INFO - [GENERATION DONE] Result for request 9: Pain, a silent scream
+A wound that never heals
+
+The pain is
+2025-06-14 11:43:39 - INFO - [BATCH] Request 9 processed by worker_0 in 0.71 seconds
+2025-06-14 11:45:38 - INFO - [GENERATION DONE] Result for request 0: Pain, a silent scream
+A reminder of life's fragility
+
+---
+2025-06-14 11:45:38 - INFO - [BATCH] Request 0 processed by worker_0 in 0.75 seconds
+2025-06-14 11:45:39 - INFO - [GENERATION DONE] Result for request 1: Pain, a silent thief
+Forgive, but never forget
+
+Haiku:
+2025-06-14 11:45:39 - INFO - [BATCH] Request 1 processed by worker_0 in 0.74 seconds
+2025-06-14 11:45:40 - INFO - [GENERATION DONE] Result for request 2: Pain's a bone
+A wound's a wound
+A heart'
+2025-06-14 11:45:40 - INFO - [BATCH] Request 2 processed by worker_0 in 0.73 seconds
+2025-06-14 11:45:41 - INFO - [GENERATION DONE] Result for request 3: Pain, a silent thief
+Insidious, yet unrelenting
+
+
+2025-06-14 11:45:41 - INFO - [BATCH] Request 3 processed by worker_0 in 0.72 seconds
+2025-06-14 11:45:42 - INFO - [GENERATION DONE] Result for request 4: Pain's a wound,
+A scar that's hard to heal,
+
+2025-06-14 11:45:42 - INFO - [BATCH] Request 4 processed by worker_0 in 0.98 seconds
+2025-06-14 11:45:42 - INFO - [GENERATION DONE] Result for request 5: Pain, a silent thief
+Forgotten, yet never forgotten
+
+---
+
+2025-06-14 11:45:42 - INFO - [BATCH] Request 5 processed by worker_0 in 0.80 seconds
+2025-06-14 11:45:43 - INFO - [GENERATION DONE] Result for request 6: Pain, a sharp,
+A wound that never heals,
+A reminder of
+2025-06-14 11:45:43 - INFO - [BATCH] Request 6 processed by worker_0 in 0.79 seconds
+2025-06-14 11:45:44 - INFO - [GENERATION DONE] Result for request 7: Pain's a wound,
+A scream, a cry,
+A pain that
+2025-06-14 11:45:44 - INFO - [BATCH] Request 7 processed by worker_0 in 0.87 seconds
+2025-06-14 11:45:45 - INFO - [GENERATION DONE] Result for request 8: Pain's a wound,
+A scar that's hard to heal,
+
+2025-06-14 11:45:45 - INFO - [BATCH] Request 8 processed by worker_0 in 0.84 seconds
+2025-06-14 11:45:46 - INFO - [GENERATION DONE] Result for request 9: Pain, a wound, a scream
+A reminder of life's pain
+
+2025-06-14 11:45:46 - INFO - [BATCH] Request 9 processed by worker_0 in 0.69 seconds
+2025-06-14 11:46:22 - INFO - [GENERATION DONE] Result for request 0: Pain, a silent scream
+A reminder of life's fragility
+
+---
+2025-06-14 11:46:22 - INFO - [BATCH] Request 0 processed by worker_0 in 0.76 seconds
+2025-06-14 11:46:23 - INFO - [GENERATION DONE] Result for request 1: Pain, a silent thief
+Forgive, but never forget
+
+Haiku:
+2025-06-14 11:46:23 - INFO - [BATCH] Request 1 processed by worker_0 in 0.72 seconds
+2025-06-14 11:46:24 - INFO - [GENERATION DONE] Result for request 2: Pain's a bone
+A wound's a wound
+A heart'
+2025-06-14 11:46:24 - INFO - [BATCH] Request 2 processed by worker_0 in 0.74 seconds
+2025-06-14 11:46:25 - INFO - [GENERATION DONE] Result for request 3: Pain's a wound,
+A scab to be torn,
+But it'
+2025-06-14 11:46:25 - INFO - [BATCH] Request 3 processed by worker_0 in 0.71 seconds
+2025-06-14 11:46:25 - INFO - [GENERATION DONE] Result for request 4: Pain's a wound,
+A scar that's hard to heal.
+
+2025-06-14 11:46:25 - INFO - [BATCH] Request 4 processed by worker_0 in 0.72 seconds
+2025-06-14 11:46:26 - INFO - [GENERATION DONE] Result for request 5: Pain, a silent thief
+Invisible, yet a force
+Lies in wait,
+2025-06-14 11:46:26 - INFO - [BATCH] Request 5 processed by worker_0 in 0.72 seconds
+2025-06-14 11:46:27 - INFO - [GENERATION DONE] Result for request 6: Pain, a wound, a scream
+A reminder of life's fragility
+2025-06-14 11:46:27 - INFO - [BATCH] Request 6 processed by worker_0 in 0.72 seconds
+2025-06-14 11:46:27 - INFO - [GENERATION DONE] Result for request 7: Pain's a wound,
+A scream, a cry,
+A reminder
+2025-06-14 11:46:27 - INFO - [BATCH] Request 7 processed by worker_0 in 0.72 seconds
+2025-06-14 11:46:28 - INFO - [GENERATION DONE] Result for request 8: Pain's a wound,
+A scab that grows,
+A reminder of
+2025-06-14 11:46:28 - INFO - [BATCH] Request 8 processed by worker_0 in 0.71 seconds
+2025-06-14 11:46:29 - INFO - [GENERATION DONE] Result for request 9: Pain, a wound, a scar
+A reminder of what we've lost
+
+2025-06-14 11:46:29 - INFO - [BATCH] Request 9 processed by worker_0 in 0.70 seconds
+2025-06-14 11:51:57 - INFO - [GENERATION DONE] Result for request 0: Pain's a wound,
+A scar that's hard to heal,
+
+2025-06-14 11:51:57 - INFO - [BATCH] Request 0 processed by worker_0 in 1.63 seconds
+2025-06-14 11:51:57 - INFO - [GENERATION DONE] Result for request 0: Pain's a wound,
+A scar, a memory,
+But it's
+2025-06-14 11:51:57 - INFO - [BATCH] Request 0 processed by worker_1 in 1.80 seconds
+2025-06-14 11:51:58 - INFO - [GENERATION DONE] Result for request 1: Pain, a silent thief
+Forgotten by time and space
+
+The pain
+2025-06-14 11:51:58 - INFO - [BATCH] Request 1 processed by worker_0 in 1.48 seconds
+2025-06-14 11:51:59 - INFO - [GENERATION DONE] Result for request 1: Pain's a wound,
+A scar to endure,
+But it's
+2025-06-14 11:51:59 - INFO - [BATCH] Request 1 processed by worker_1 in 1.65 seconds
+2025-06-14 11:52:00 - INFO - [GENERATION DONE] Result for request 2: Pain, a sharp, unyielding blade
+A reminder of the fragility
+2025-06-14 11:52:00 - INFO - [BATCH] Request 2 processed by worker_0 in 1.49 seconds
+2025-06-14 11:52:00 - INFO - [GENERATION DONE] Result for request 2: Pain, a sharp,
+Through the veil of tears,
+A reminder
+2025-06-14 11:52:00 - INFO - [BATCH] Request 2 processed by worker_1 in 1.62 seconds
+2025-06-14 11:52:01 - INFO - [GENERATION DONE] Result for request 3: Pain, a silent thief
+Insidious, unseen
+But its touch is
+2025-06-14 11:52:01 - INFO - [BATCH] Request 3 processed by worker_0 in 1.75 seconds
+2025-06-14 11:52:02 - INFO - [GENERATION DONE] Result for request 3: Pain, a wound, a scream
+A reminder of our mortality
+
+
+2025-06-14 11:52:02 - INFO - [BATCH] Request 3 processed by worker_1 in 1.58 seconds
+2025-06-14 11:52:03 - INFO - [GENERATION DONE] Result for request 4: Pain's a wound,
+A scar that's hard to shake,
+
+2025-06-14 11:52:03 - INFO - [BATCH] Request 4 processed by worker_0 in 1.60 seconds
+2025-06-14 11:52:03 - INFO - [GENERATION DONE] Result for request 4: Pain's a wound,
+A scream, a cry,
+But it'
+2025-06-14 11:52:03 - INFO - [BATCH] Request 4 processed by worker_1 in 1.53 seconds
+2025-06-14 11:52:04 - INFO - [GENERATION DONE] Result for request 5: Pain's a wound,
+A scar, a mark,
+But still, it
+2025-06-14 11:52:04 - INFO - [BATCH] Request 5 processed by worker_0 in 0.92 seconds
+2025-06-14 11:52:05 - INFO - [GENERATION DONE] Result for request 6: Pain's a wound,
+A scream, a cry,
+A pain that
+2025-06-14 11:52:05 - INFO - [BATCH] Request 6 processed by worker_0 in 0.77 seconds
+2025-06-14 11:52:06 - INFO - [GENERATION DONE] Result for request 7: Pain's a wound,
+A scar that's hard to heal,
+
+2025-06-14 11:52:06 - INFO - [BATCH] Request 7 processed by worker_0 in 0.77 seconds
+2025-06-14 11:52:06 - INFO - [GENERATION DONE] Result for request 8: Pain's a wound,
+A scab that grows,
+A reminder of
+2025-06-14 11:52:06 - INFO - [BATCH] Request 8 processed by worker_0 in 0.88 seconds
+2025-06-14 11:52:07 - INFO - [GENERATION DONE] Result for request 9: Pain, a silent scream
+A wound that never heals
+
+The pain is
+2025-06-14 11:52:07 - INFO - [BATCH] Request 9 processed by worker_0 in 0.70 seconds
+2025-06-14 11:57:01 - INFO - [BATCH] Request 0 processed by worker_0 in 1.60 seconds
+2025-06-14 11:57:01 - INFO - [BATCH] Request 0 processed by worker_1 in 1.63 seconds
+2025-06-14 11:57:02 - INFO - [BATCH] Request 1 processed by worker_1 in 1.41 seconds
+2025-06-14 11:57:02 - INFO - [BATCH] Request 1 processed by worker_0 in 1.52 seconds
+2025-06-14 11:57:03 - INFO - [BATCH] Request 2 processed by worker_1 in 1.46 seconds
+2025-06-14 11:57:03 - INFO - [BATCH] Request 2 processed by worker_0 in 1.39 seconds
+2025-06-14 11:57:05 - INFO - [BATCH] Request 3 processed by worker_0 in 1.42 seconds
+2025-06-14 11:57:05 - INFO - [BATCH] Request 3 processed by worker_1 in 1.49 seconds
+2025-06-14 11:57:06 - INFO - [BATCH] Request 4 processed by worker_1 in 1.38 seconds
+2025-06-14 11:57:06 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 11:57:06 - INFO - [BATCH] Request 4 processed by worker_0 in 1.49 seconds
+2025-06-14 11:57:07 - INFO - [BATCH] Request 5 processed by worker_0 in 0.71 seconds
+2025-06-14 11:57:08 - INFO - [BATCH] Request 6 processed by worker_0 in 0.70 seconds
+2025-06-14 11:57:08 - INFO - [BATCH] Request 7 processed by worker_0 in 0.71 seconds
+2025-06-14 11:57:09 - INFO - [BATCH] Request 8 processed by worker_0 in 0.76 seconds
+2025-06-14 11:57:10 - INFO - [BATCH] Request 9 processed by worker_0 in 0.70 seconds
+2025-06-14 11:57:10 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 11:58:33 - INFO - [BATCH] Request 0 processed by worker_1 in 1.82 seconds
+2025-06-14 11:58:33 - INFO - [BATCH] Request 0 processed by worker_0 in 1.91 seconds
+2025-06-14 11:58:35 - INFO - [BATCH] Request 1 processed by worker_1 in 1.75 seconds
+2025-06-14 11:58:35 - INFO - [BATCH] Request 1 processed by worker_0 in 1.74 seconds
+2025-06-14 11:58:36 - INFO - [BATCH] Request 2 processed by worker_1 in 1.46 seconds
+2025-06-14 11:58:37 - INFO - [BATCH] Request 2 processed by worker_0 in 1.78 seconds
+2025-06-14 11:58:38 - INFO - [BATCH] Request 3 processed by worker_1 in 1.46 seconds
+2025-06-14 11:58:38 - INFO - [BATCH] Request 3 processed by worker_0 in 1.55 seconds
+2025-06-14 11:58:39 - INFO - [BATCH] Request 4 processed by worker_1 in 1.47 seconds
+2025-06-14 11:58:39 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 11:58:39 - INFO - [BATCH] Request 4 processed by worker_0 in 1.30 seconds
+2025-06-14 11:58:40 - INFO - [BATCH] Request 5 processed by worker_0 in 0.74 seconds
+2025-06-14 11:58:41 - INFO - [BATCH] Request 6 processed by worker_0 in 0.76 seconds
+2025-06-14 11:58:41 - ERROR - Request was cancelled
+2025-06-14 11:58:41 - ERROR - Request was cancelled
+2025-06-14 11:58:41 - ERROR - Request was cancelled
+2025-06-14 11:58:42 - INFO - [BATCH] Request 7 processed by worker_0 in 0.79 seconds
+2025-06-14 11:58:43 - INFO - [BATCH] Request 8 processed by worker_0 in 0.84 seconds
+2025-06-14 11:58:43 - INFO - [BATCH] Request 9 processed by worker_0 in 0.74 seconds
+2025-06-14 11:58:43 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 11:59:09 - INFO - [BATCH] Request 0 processed by worker_1 in 1.52 seconds
+2025-06-14 11:59:09 - INFO - [BATCH] Request 0 processed by worker_0 in 1.54 seconds
+2025-06-14 11:59:11 - INFO - [BATCH] Request 1 processed by worker_1 in 1.46 seconds
+2025-06-14 11:59:11 - INFO - [BATCH] Request 1 processed by worker_0 in 1.44 seconds
+2025-06-14 11:59:12 - INFO - [BATCH] Request 2 processed by worker_1 in 1.44 seconds
+2025-06-14 11:59:12 - INFO - [BATCH] Request 2 processed by worker_0 in 1.44 seconds
+2025-06-14 11:59:14 - INFO - [BATCH] Request 3 processed by worker_0 in 1.41 seconds
+2025-06-14 11:59:14 - INFO - [BATCH] Request 3 processed by worker_1 in 1.43 seconds
+2025-06-14 11:59:15 - INFO - [BATCH] Request 4 processed by worker_1 in 1.41 seconds
+2025-06-14 11:59:15 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 11:59:15 - INFO - [BATCH] Request 4 processed by worker_0 in 1.44 seconds
+2025-06-14 11:59:16 - INFO - [BATCH] Request 5 processed by worker_0 in 0.72 seconds
+2025-06-14 11:59:16 - INFO - [BATCH] Request 6 processed by worker_0 in 0.73 seconds
+2025-06-14 11:59:17 - INFO - [BATCH] Request 7 processed by worker_0 in 0.71 seconds
+2025-06-14 11:59:18 - INFO - [BATCH] Request 8 processed by worker_0 in 0.75 seconds
+2025-06-14 11:59:19 - INFO - [BATCH] Request 9 processed by worker_0 in 0.72 seconds
+2025-06-14 11:59:19 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 12:08:27 - INFO - [BATCH] Request 0 processed by worker_0 in 1.51 seconds
+2025-06-14 12:08:28 - INFO - [BATCH] Request 0 processed by worker_1 in 1.74 seconds
+2025-06-14 12:08:29 - INFO - [BATCH] Request 1 processed by worker_0 in 1.41 seconds
+2025-06-14 12:08:29 - INFO - [BATCH] Request 1 processed by worker_1 in 1.38 seconds
+2025-06-14 12:08:30 - INFO - [BATCH] Request 2 processed by worker_0 in 1.40 seconds
+2025-06-14 12:08:30 - INFO - [BATCH] Request 2 processed by worker_1 in 1.40 seconds
+2025-06-14 12:08:32 - INFO - [BATCH] Request 3 processed by worker_0 in 1.41 seconds
+2025-06-14 12:08:32 - INFO - [BATCH] Request 3 processed by worker_1 in 1.42 seconds
+2025-06-14 12:08:33 - INFO - [BATCH] Request 4 processed by worker_0 in 1.41 seconds
+2025-06-14 12:08:33 - INFO - [BATCH] Request 4 processed by worker_1 in 1.41 seconds
+2025-06-14 12:08:33 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 12:08:34 - INFO - [BATCH] Request 5 processed by worker_0 in 0.83 seconds
+2025-06-14 12:08:35 - INFO - [BATCH] Request 6 processed by worker_0 in 0.71 seconds
+2025-06-14 12:08:35 - INFO - [BATCH] Request 7 processed by worker_0 in 0.74 seconds
+2025-06-14 12:08:36 - INFO - [BATCH] Request 8 processed by worker_0 in 0.76 seconds
+2025-06-14 12:08:37 - INFO - [BATCH] Request 9 processed by worker_0 in 0.73 seconds
+2025-06-14 12:08:37 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 12:09:39 - INFO - [BATCH] Request 0 processed by worker_1 in 1.80 seconds
+2025-06-14 12:09:39 - INFO - [BATCH] Request 0 processed by worker_0 in 2.09 seconds
+2025-06-14 12:09:41 - INFO - [BATCH] Request 1 processed by worker_1 in 1.50 seconds
+2025-06-14 12:09:41 - INFO - [BATCH] Request 1 processed by worker_0 in 1.68 seconds
+2025-06-14 12:09:42 - INFO - [BATCH] Request 2 processed by worker_1 in 1.65 seconds
+2025-06-14 12:09:43 - INFO - [BATCH] Request 2 processed by worker_0 in 1.83 seconds
+2025-06-14 12:09:44 - INFO - [BATCH] Request 3 processed by worker_1 in 1.38 seconds
+2025-06-14 12:09:44 - INFO - [BATCH] Request 3 processed by worker_0 in 1.40 seconds
+2025-06-14 12:09:45 - INFO - [BATCH] Request 4 processed by worker_1 in 1.54 seconds
+2025-06-14 12:09:45 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 12:09:46 - INFO - [BATCH] Request 4 processed by worker_0 in 1.21 seconds
+2025-06-14 12:09:46 - INFO - [BATCH] Request 5 processed by worker_0 in 0.77 seconds
+2025-06-14 12:09:47 - INFO - [BATCH] Request 6 processed by worker_0 in 0.76 seconds
+2025-06-14 12:09:48 - INFO - [BATCH] Request 7 processed by worker_0 in 0.78 seconds
+2025-06-14 12:09:49 - INFO - [BATCH] Request 8 processed by worker_0 in 0.84 seconds
+2025-06-14 12:09:49 - INFO - [BATCH] Request 9 processed by worker_0 in 0.72 seconds
+2025-06-14 12:09:49 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 12:10:09 - INFO - [BATCH] Request 0 processed by worker_1 in 1.78 seconds
+2025-06-14 12:10:09 - INFO - [BATCH] Request 0 processed by worker_0 in 1.93 seconds
+2025-06-14 12:10:11 - INFO - [BATCH] Request 1 processed by worker_1 in 1.72 seconds
+2025-06-14 12:10:11 - INFO - [BATCH] Request 1 processed by worker_0 in 1.64 seconds
+2025-06-14 12:10:13 - INFO - [BATCH] Request 2 processed by worker_1 in 1.74 seconds
+2025-06-14 12:10:13 - INFO - [BATCH] Request 2 processed by worker_0 in 2.27 seconds
+2025-06-14 12:10:15 - INFO - [BATCH] Request 3 processed by worker_1 in 1.72 seconds
+2025-06-14 12:10:15 - INFO - [BATCH] Request 3 processed by worker_0 in 1.57 seconds
+2025-06-14 12:10:16 - INFO - [BATCH] Request 4 processed by worker_1 in 1.57 seconds
+2025-06-14 12:10:16 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 12:10:16 - INFO - [BATCH] Request 4 processed by worker_0 in 1.36 seconds
+2025-06-14 12:10:17 - INFO - [BATCH] Request 5 processed by worker_0 in 0.75 seconds
+2025-06-14 12:10:18 - INFO - [BATCH] Request 6 processed by worker_0 in 0.78 seconds
+2025-06-14 12:10:19 - INFO - [BATCH] Request 7 processed by worker_0 in 0.85 seconds
+2025-06-14 12:10:19 - INFO - [BATCH] Request 8 processed by worker_0 in 0.75 seconds
+2025-06-14 12:10:20 - INFO - [BATCH] Request 9 processed by worker_0 in 0.83 seconds
+2025-06-14 12:10:20 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 12:10:37 - INFO - [BATCH] Request 0 processed by worker_0 in 1.53 seconds
+2025-06-14 12:10:37 - INFO - [BATCH] Request 0 processed by worker_1 in 1.55 seconds
+2025-06-14 12:10:38 - INFO - [BATCH] Request 1 processed by worker_1 in 1.41 seconds
+2025-06-14 12:10:38 - INFO - [BATCH] Request 1 processed by worker_0 in 1.50 seconds
+2025-06-14 12:10:40 - INFO - [BATCH] Request 2 processed by worker_1 in 1.42 seconds
+2025-06-14 12:10:40 - INFO - [BATCH] Request 2 processed by worker_0 in 1.46 seconds
+2025-06-14 12:10:41 - INFO - [BATCH] Request 3 processed by worker_1 in 1.35 seconds
+2025-06-14 12:10:41 - INFO - [BATCH] Request 3 processed by worker_0 in 1.44 seconds
+2025-06-14 12:10:42 - INFO - [BATCH] Request 4 processed by worker_1 in 1.54 seconds
+2025-06-14 12:10:42 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 12:10:43 - INFO - [BATCH] Request 4 processed by worker_0 in 1.52 seconds
+2025-06-14 12:10:43 - INFO - [BATCH] Request 5 processed by worker_0 in 0.73 seconds
+2025-06-14 12:10:44 - INFO - [BATCH] Request 6 processed by worker_0 in 0.70 seconds
+2025-06-14 12:10:45 - INFO - [BATCH] Request 7 processed by worker_0 in 0.70 seconds
+2025-06-14 12:10:46 - INFO - [BATCH] Request 8 processed by worker_0 in 0.77 seconds
+2025-06-14 12:10:46 - INFO - [BATCH] Request 9 processed by worker_0 in 0.74 seconds
+2025-06-14 12:10:46 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 12:10:55 - INFO - [BATCH] Request 0 processed by worker_1 in 2.43 seconds
+2025-06-14 12:10:55 - INFO - [BATCH] Request 0 processed by worker_0 in 2.47 seconds
+2025-06-14 12:10:55 - INFO - [BATCH] Request 0 processed by worker_2 in 2.50 seconds
+2025-06-14 12:10:57 - INFO - [BATCH] Request 1 processed by worker_1 in 2.24 seconds
+2025-06-14 12:10:57 - INFO - [BATCH] Request 1 processed by worker_0 in 2.30 seconds
+2025-06-14 12:10:58 - INFO - [BATCH] Request 1 processed by worker_2 in 2.34 seconds
+2025-06-14 12:11:00 - INFO - [BATCH] Request 2 processed by worker_1 in 2.26 seconds
+2025-06-14 12:11:00 - INFO - [BATCH] Request 2 processed by worker_0 in 2.39 seconds
+2025-06-14 12:11:00 - INFO - [BATCH] Request 2 processed by worker_2 in 2.37 seconds
+2025-06-14 12:11:02 - INFO - [BATCH] Request 3 processed by worker_1 in 2.18 seconds
+2025-06-14 12:11:02 - INFO - [BATCH] Request 3 processed by worker_2 in 2.30 seconds
+2025-06-14 12:11:02 - INFO - [BATCH] Request 3 processed by worker_0 in 2.36 seconds
+2025-06-14 12:11:04 - INFO - [BATCH] Request 4 processed by worker_1 in 2.36 seconds
+2025-06-14 12:11:04 - INFO - [BATCH] Request 4 processed by worker_0 in 2.24 seconds
+2025-06-14 12:11:04 - INFO - [BATCH] Request 4 processed by worker_2 in 2.27 seconds
+2025-06-14 12:11:04 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 12:11:06 - INFO - [BATCH] Request 5 processed by worker_1 in 1.51 seconds
+2025-06-14 12:11:06 - INFO - [BATCH] Request 5 processed by worker_0 in 1.41 seconds
+2025-06-14 12:11:07 - INFO - [BATCH] Request 6 processed by worker_1 in 1.71 seconds
+2025-06-14 12:11:08 - INFO - [BATCH] Request 6 processed by worker_0 in 1.72 seconds
+2025-06-14 12:11:09 - INFO - [BATCH] Request 7 processed by worker_1 in 1.35 seconds
+2025-06-14 12:11:09 - INFO - [BATCH] Request 7 processed by worker_0 in 1.73 seconds
+2025-06-14 12:11:10 - INFO - [BATCH] Request 8 processed by worker_1 in 1.59 seconds
+2025-06-14 12:11:11 - INFO - [BATCH] Request 8 processed by worker_0 in 1.50 seconds
+2025-06-14 12:11:12 - INFO - [BATCH] Request 9 processed by worker_1 in 1.41 seconds
+2025-06-14 12:11:12 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 12:11:12 - INFO - [BATCH] Request 9 processed by worker_0 in 1.21 seconds
+2025-06-14 12:11:12 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 12:15:55 - INFO - [BATCH] Request 0 processed by worker_0 in 2.40 seconds
+2025-06-14 12:15:55 - INFO - [BATCH] Request 0 processed by worker_1 in 2.58 seconds
+2025-06-14 12:15:55 - INFO - [BATCH] Request 0 processed by worker_2 in 2.61 seconds
+2025-06-14 12:15:57 - INFO - [BATCH] Request 1 processed by worker_0 in 2.21 seconds
+2025-06-14 12:15:57 - INFO - [BATCH] Request 1 processed by worker_1 in 2.17 seconds
+2025-06-14 12:15:57 - INFO - [BATCH] Request 1 processed by worker_2 in 2.17 seconds
+2025-06-14 12:15:59 - INFO - [BATCH] Request 2 processed by worker_0 in 2.20 seconds
+2025-06-14 12:15:59 - INFO - [BATCH] Request 2 processed by worker_2 in 2.08 seconds
+2025-06-14 12:15:59 - INFO - [BATCH] Request 2 processed by worker_1 in 2.15 seconds
+2025-06-14 12:16:01 - INFO - [BATCH] Request 3 processed by worker_0 in 2.04 seconds
+2025-06-14 12:16:02 - INFO - [BATCH] Request 3 processed by worker_2 in 2.23 seconds
+2025-06-14 12:16:02 - INFO - [BATCH] Request 3 processed by worker_1 in 2.26 seconds
+2025-06-14 12:16:03 - INFO - [BATCH] Request 4 processed by worker_0 in 2.17 seconds
+2025-06-14 12:16:04 - INFO - [BATCH] Request 4 processed by worker_2 in 2.14 seconds
+2025-06-14 12:16:04 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-14 12:16:04 - INFO - [BATCH] Request 4 processed by worker_1 in 2.11 seconds
+2025-06-14 12:16:05 - INFO - [BATCH] Request 5 processed by worker_0 in 1.41 seconds
+2025-06-14 12:16:05 - INFO - [BATCH] Request 5 processed by worker_1 in 1.58 seconds
+2025-06-14 12:16:06 - INFO - [BATCH] Request 6 processed by worker_0 in 1.46 seconds
+2025-06-14 12:16:07 - INFO - [BATCH] Request 6 processed by worker_1 in 1.37 seconds
+2025-06-14 12:16:08 - INFO - [BATCH] Request 7 processed by worker_0 in 1.36 seconds
+2025-06-14 12:16:08 - INFO - [BATCH] Request 7 processed by worker_1 in 1.36 seconds
+2025-06-14 12:16:09 - INFO - [BATCH] Request 8 processed by worker_0 in 1.37 seconds
+2025-06-14 12:16:09 - INFO - [BATCH] Request 8 processed by worker_1 in 1.38 seconds
+2025-06-14 12:16:10 - INFO - [BATCH] Request 9 processed by worker_0 in 1.34 seconds
+2025-06-14 12:16:10 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-14 12:16:11 - INFO - [BATCH] Request 9 processed by worker_1 in 1.24 seconds
+2025-06-14 12:16:11 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 15:04:32 - INFO - [BATCH] Request 0 processed by worker_1 in 2.76 seconds
+2025-06-18 15:04:32 - INFO - [BATCH] Request 0 processed by worker_2 in 2.78 seconds
+2025-06-18 15:04:32 - INFO - [BATCH] Request 0 processed by worker_0 in 2.81 seconds
+2025-06-18 15:04:34 - INFO - [BATCH] Request 1 processed by worker_2 in 2.07 seconds
+2025-06-18 15:04:34 - INFO - [BATCH] Request 1 processed by worker_0 in 2.26 seconds
+2025-06-18 15:04:34 - INFO - [BATCH] Request 1 processed by worker_1 in 2.31 seconds
+2025-06-18 15:04:37 - INFO - [BATCH] Request 2 processed by worker_2 in 2.55 seconds
+2025-06-18 15:04:37 - INFO - [BATCH] Request 2 processed by worker_1 in 2.52 seconds
+2025-06-18 15:04:37 - INFO - [BATCH] Request 2 processed by worker_0 in 2.58 seconds
+2025-06-18 15:04:39 - INFO - [BATCH] Request 3 processed by worker_2 in 2.36 seconds
+2025-06-18 15:04:39 - INFO - [BATCH] Request 3 processed by worker_1 in 2.40 seconds
+2025-06-18 15:04:39 - INFO - [BATCH] Request 3 processed by worker_0 in 2.38 seconds
+2025-06-18 15:04:42 - INFO - [BATCH] Request 4 processed by worker_2 in 2.36 seconds
+2025-06-18 15:04:42 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-18 15:04:42 - INFO - [BATCH] Request 4 processed by worker_0 in 2.31 seconds
+2025-06-18 15:04:42 - INFO - [BATCH] Request 4 processed by worker_1 in 2.37 seconds
+2025-06-18 15:04:43 - INFO - [BATCH] Request 5 processed by worker_0 in 1.56 seconds
+2025-06-18 15:04:43 - INFO - [BATCH] Request 5 processed by worker_1 in 1.57 seconds
+2025-06-18 15:04:45 - INFO - [BATCH] Request 6 processed by worker_0 in 1.70 seconds
+2025-06-18 15:04:45 - INFO - [BATCH] Request 6 processed by worker_1 in 1.71 seconds
+2025-06-18 15:04:46 - INFO - [BATCH] Request 7 processed by worker_0 in 1.39 seconds
+2025-06-18 15:04:47 - INFO - [BATCH] Request 7 processed by worker_1 in 1.50 seconds
+2025-06-18 15:04:48 - INFO - [BATCH] Request 8 processed by worker_0 in 1.54 seconds
+2025-06-18 15:04:48 - INFO - [BATCH] Request 8 processed by worker_1 in 1.58 seconds
+2025-06-18 15:04:49 - INFO - [BATCH] Request 9 processed by worker_0 in 1.53 seconds
+2025-06-18 15:04:49 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 15:04:50 - INFO - [BATCH] Request 9 processed by worker_1 in 1.45 seconds
+2025-06-18 15:04:50 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 15:05:03 - INFO - [BATCH] Request 0 processed by worker_2 in 2.29 seconds
+2025-06-18 15:05:04 - INFO - [BATCH] Request 0 processed by worker_0 in 2.58 seconds
+2025-06-18 15:05:04 - INFO - [BATCH] Request 0 processed by worker_1 in 2.66 seconds
+2025-06-18 15:05:06 - INFO - [BATCH] Request 1 processed by worker_2 in 2.33 seconds
+2025-06-18 15:05:06 - INFO - [BATCH] Request 1 processed by worker_0 in 2.31 seconds
+2025-06-18 15:05:06 - INFO - [BATCH] Request 1 processed by worker_1 in 2.30 seconds
+2025-06-18 15:05:08 - INFO - [BATCH] Request 2 processed by worker_2 in 2.17 seconds
+2025-06-18 15:05:08 - INFO - [BATCH] Request 2 processed by worker_0 in 2.20 seconds
+2025-06-18 15:05:08 - INFO - [BATCH] Request 2 processed by worker_1 in 2.14 seconds
+2025-06-18 15:05:10 - INFO - [BATCH] Request 3 processed by worker_2 in 2.08 seconds
+2025-06-18 15:05:10 - INFO - [BATCH] Request 3 processed by worker_0 in 2.15 seconds
+2025-06-18 15:05:10 - INFO - [BATCH] Request 3 processed by worker_1 in 2.16 seconds
+2025-06-18 15:05:12 - INFO - [BATCH] Request 4 processed by worker_2 in 2.32 seconds
+2025-06-18 15:05:12 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-18 15:05:12 - INFO - [BATCH] Request 4 processed by worker_0 in 2.09 seconds
+2025-06-18 15:05:12 - INFO - [BATCH] Request 4 processed by worker_1 in 2.12 seconds
+2025-06-18 15:05:14 - INFO - [BATCH] Request 5 processed by worker_0 in 1.41 seconds
+2025-06-18 15:05:14 - INFO - [BATCH] Request 5 processed by worker_1 in 1.47 seconds
+2025-06-18 15:05:16 - INFO - [BATCH] Request 6 processed by worker_0 in 1.73 seconds
+2025-06-18 15:05:16 - INFO - [BATCH] Request 6 processed by worker_1 in 1.88 seconds
+2025-06-18 15:05:17 - INFO - [BATCH] Request 7 processed by worker_0 in 1.71 seconds
+2025-06-18 15:05:17 - INFO - [BATCH] Request 7 processed by worker_1 in 1.65 seconds
+2025-06-18 15:05:19 - INFO - [BATCH] Request 8 processed by worker_0 in 1.58 seconds
+2025-06-18 15:05:25 - INFO - [BATCH] Request 0 processed by worker_1 in 1.70 seconds
+2025-06-18 15:05:25 - INFO - [BATCH] Request 0 processed by worker_0 in 1.80 seconds
+2025-06-18 15:05:27 - INFO - [BATCH] Request 1 processed by worker_1 in 1.47 seconds
+2025-06-18 15:05:27 - INFO - [BATCH] Request 1 processed by worker_0 in 1.46 seconds
+2025-06-18 15:05:28 - INFO - [BATCH] Request 2 processed by worker_1 in 1.51 seconds
+2025-06-18 15:05:28 - INFO - [BATCH] Request 2 processed by worker_0 in 1.53 seconds
+2025-06-18 15:05:30 - INFO - [BATCH] Request 3 processed by worker_0 in 1.57 seconds
+2025-06-18 15:05:30 - INFO - [BATCH] Request 3 processed by worker_1 in 1.71 seconds
+2025-06-18 15:05:31 - INFO - [BATCH] Request 4 processed by worker_0 in 1.54 seconds
+2025-06-18 15:05:32 - INFO - [BATCH] Request 4 processed by worker_1 in 1.75 seconds
+2025-06-18 15:05:32 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-18 15:05:32 - INFO - [BATCH] Request 5 processed by worker_0 in 0.91 seconds
+2025-06-18 15:05:33 - INFO - [BATCH] Request 6 processed by worker_0 in 0.76 seconds
+2025-06-18 15:05:34 - INFO - [BATCH] Request 7 processed by worker_0 in 0.78 seconds
+2025-06-18 15:05:35 - INFO - [BATCH] Request 8 processed by worker_0 in 0.82 seconds
+2025-06-18 15:05:36 - INFO - [BATCH] Request 9 processed by worker_0 in 0.81 seconds
+2025-06-18 15:05:36 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 15:19:38 - INFO - [BATCH] Request 0 processed by worker_0 in 3.72 seconds
+2025-06-18 15:19:39 - INFO - [BATCH] Request 0 processed by worker_1 in 4.18 seconds
+2025-06-18 15:19:40 - INFO - [BATCH] Request 1 processed by worker_0 in 1.49 seconds
+2025-06-18 15:19:40 - INFO - [BATCH] Request 1 processed by worker_1 in 1.59 seconds
+2025-06-18 15:19:41 - INFO - [BATCH] Request 2 processed by worker_0 in 1.72 seconds
+2025-06-18 15:19:42 - INFO - [BATCH] Request 2 processed by worker_1 in 1.66 seconds
+2025-06-18 15:19:43 - INFO - [BATCH] Request 3 processed by worker_0 in 1.45 seconds
+2025-06-18 15:19:44 - INFO - [BATCH] Request 3 processed by worker_1 in 1.73 seconds
+2025-06-18 15:19:45 - INFO - [BATCH] Request 4 processed by worker_0 in 1.70 seconds
+2025-06-18 15:19:45 - INFO - [BATCH] Request 4 processed by worker_1 in 1.48 seconds
+2025-06-18 15:19:45 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-18 15:19:46 - INFO - [BATCH] Request 5 processed by worker_0 in 1.21 seconds
+2025-06-18 15:19:47 - INFO - [BATCH] Request 6 processed by worker_0 in 0.95 seconds
+2025-06-18 15:19:48 - INFO - [BATCH] Request 7 processed by worker_0 in 0.84 seconds
+2025-06-18 15:19:48 - INFO - [BATCH] Request 8 processed by worker_0 in 0.76 seconds
+2025-06-18 15:19:49 - INFO - [BATCH] Request 9 processed by worker_0 in 1.08 seconds
+2025-06-18 15:19:49 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 15:19:57 - INFO - [BATCH] Request 0 processed by worker_0 in 3.38 seconds
+2025-06-18 15:19:58 - INFO - [BATCH] Request 0 processed by worker_1 in 3.71 seconds
+2025-06-18 15:19:59 - INFO - [BATCH] Request 1 processed by worker_1 in 1.79 seconds
+2025-06-18 15:19:59 - INFO - [BATCH] Request 1 processed by worker_0 in 2.16 seconds
+2025-06-18 15:20:01 - INFO - [BATCH] Request 2 processed by worker_1 in 1.49 seconds
+2025-06-18 15:20:01 - INFO - [BATCH] Request 2 processed by worker_0 in 1.94 seconds
+2025-06-18 15:20:02 - INFO - [BATCH] Request 3 processed by worker_1 in 1.52 seconds
+2025-06-18 15:20:03 - INFO - [BATCH] Request 3 processed by worker_0 in 1.56 seconds
+2025-06-18 15:20:04 - INFO - [BATCH] Request 4 processed by worker_1 in 1.44 seconds
+2025-06-18 15:20:04 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-18 15:20:04 - INFO - [BATCH] Request 4 processed by worker_0 in 1.31 seconds
+2025-06-18 15:20:05 - INFO - [BATCH] Request 5 processed by worker_0 in 0.85 seconds
+2025-06-18 15:20:06 - INFO - [BATCH] Request 6 processed by worker_0 in 0.77 seconds
+2025-06-18 15:20:06 - INFO - [BATCH] Request 7 processed by worker_0 in 0.70 seconds
+2025-06-18 15:20:07 - INFO - [BATCH] Request 8 processed by worker_0 in 0.70 seconds
+2025-06-18 15:20:08 - INFO - [BATCH] Request 9 processed by worker_0 in 0.74 seconds
+2025-06-18 15:20:08 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 15:20:26 - INFO - [BATCH] Request 0 processed by worker_0 in 4.45 seconds
+2025-06-18 15:20:28 - INFO - [BATCH] Request 1 processed by worker_0 in 1.83 seconds
+2025-06-18 15:20:29 - INFO - [BATCH] Request 2 processed by worker_0 in 0.94 seconds
+2025-06-18 15:20:30 - INFO - [BATCH] Request 3 processed by worker_0 in 0.80 seconds
+2025-06-18 15:20:30 - INFO - [BATCH] Request 4 processed by worker_0 in 0.78 seconds
+2025-06-18 15:20:31 - INFO - [BATCH] Request 5 processed by worker_0 in 0.81 seconds
+2025-06-18 15:20:32 - INFO - [BATCH] Request 6 processed by worker_0 in 0.85 seconds
+2025-06-18 15:20:33 - INFO - [BATCH] Request 7 processed by worker_0 in 0.92 seconds
+2025-06-18 15:20:34 - INFO - [BATCH] Request 8 processed by worker_0 in 0.76 seconds
+2025-06-18 15:20:35 - INFO - [BATCH] Request 9 processed by worker_0 in 0.87 seconds
+2025-06-18 15:20:35 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:06:23 - INFO - [BATCH] Request 0 processed by worker_0 in 1.17 seconds
+2025-06-18 16:06:24 - INFO - [BATCH] Request 1 processed by worker_0 in 0.73 seconds
+2025-06-18 16:06:24 - INFO - [BATCH] Request 2 processed by worker_0 in 0.78 seconds
+2025-06-18 16:06:25 - INFO - [BATCH] Request 3 processed by worker_0 in 0.71 seconds
+2025-06-18 16:06:26 - INFO - [BATCH] Request 4 processed by worker_0 in 0.74 seconds
+2025-06-18 16:06:27 - INFO - [BATCH] Request 5 processed by worker_0 in 0.87 seconds
+2025-06-18 16:06:27 - INFO - [BATCH] Request 6 processed by worker_0 in 0.81 seconds
+2025-06-18 16:06:28 - INFO - [BATCH] Request 7 processed by worker_0 in 0.87 seconds
+2025-06-18 16:06:29 - INFO - [BATCH] Request 8 processed by worker_0 in 0.82 seconds
+2025-06-18 16:06:30 - INFO - [BATCH] Request 9 processed by worker_0 in 0.77 seconds
+2025-06-18 16:06:30 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:20:54 - INFO - [BATCH] Request 0 processed by worker_0 in 1.36 seconds
+2025-06-18 16:20:55 - INFO - [BATCH] Request 1 processed by worker_0 in 0.99 seconds
+2025-06-18 16:20:56 - INFO - [BATCH] Request 2 processed by worker_0 in 0.92 seconds
+2025-06-18 16:20:57 - INFO - [BATCH] Request 3 processed by worker_0 in 0.93 seconds
+2025-06-18 16:20:58 - INFO - [BATCH] Request 4 processed by worker_0 in 0.97 seconds
+2025-06-18 16:20:59 - INFO - [BATCH] Request 5 processed by worker_0 in 0.95 seconds
+2025-06-18 16:21:00 - INFO - [BATCH] Request 6 processed by worker_0 in 1.00 seconds
+2025-06-18 16:21:01 - INFO - [BATCH] Request 7 processed by worker_0 in 0.91 seconds
+2025-06-18 16:21:02 - INFO - [BATCH] Request 8 processed by worker_0 in 0.94 seconds
+2025-06-18 16:21:03 - INFO - [BATCH] Request 9 processed by worker_0 in 0.94 seconds
+2025-06-18 16:21:03 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:24:39 - INFO - [BATCH] Request 0 processed by worker_0 in 0.77 seconds
+2025-06-18 16:24:39 - INFO - [BATCH] Request 1 processed by worker_0 in 0.70 seconds
+2025-06-18 16:24:40 - INFO - [BATCH] Request 2 processed by worker_0 in 0.73 seconds
+2025-06-18 16:24:41 - INFO - [BATCH] Request 3 processed by worker_0 in 0.69 seconds
+2025-06-18 16:24:42 - INFO - [BATCH] Request 4 processed by worker_0 in 0.73 seconds
+2025-06-18 16:24:42 - INFO - [BATCH] Request 5 processed by worker_0 in 0.73 seconds
+2025-06-18 16:24:43 - INFO - [BATCH] Request 6 processed by worker_0 in 0.69 seconds
+2025-06-18 16:24:44 - INFO - [BATCH] Request 7 processed by worker_0 in 0.69 seconds
+2025-06-18 16:24:44 - INFO - [BATCH] Request 8 processed by worker_0 in 0.77 seconds
+2025-06-18 16:24:45 - INFO - [BATCH] Request 9 processed by worker_0 in 0.73 seconds
+2025-06-18 16:24:45 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:24:57 - ERROR - Request timed out after 10.15625s
+2025-06-18 16:36:37 - ERROR - Request timed out after 10.15625s
+2025-06-18 16:43:13 - INFO - [BATCH] Request 0 processed by worker_0 in 0.73 seconds
+2025-06-18 16:43:13 - INFO - [BATCH] Completed batch of 1 requests. Failed: 0
+2025-06-18 16:44:03 - ERROR - Request timed out after 10.15625s
+2025-06-18 16:45:57 - ERROR - Request timed out after 10.15625s
+2025-06-18 16:47:14 - INFO - [BATCH] Request 0 processed by worker_0 in 0.73 seconds
+2025-06-18 16:47:14 - INFO - [BATCH] Completed batch of 1 requests. Failed: 0
+2025-06-18 16:52:07 - INFO - [BATCH] Request 0 processed by worker_0 in 0.91 seconds
+2025-06-18 16:52:08 - INFO - [BATCH] Request 1 processed by worker_0 in 0.99 seconds
+2025-06-18 16:52:09 - INFO - [BATCH] Request 2 processed by worker_0 in 0.82 seconds
+2025-06-18 16:52:10 - INFO - [BATCH] Request 3 processed by worker_0 in 0.73 seconds
+2025-06-18 16:52:10 - INFO - [BATCH] Request 4 processed by worker_0 in 0.73 seconds
+2025-06-18 16:52:11 - INFO - [BATCH] Request 5 processed by worker_0 in 0.76 seconds
+2025-06-18 16:52:12 - INFO - [BATCH] Request 6 processed by worker_0 in 0.71 seconds
+2025-06-18 16:52:13 - INFO - [BATCH] Request 7 processed by worker_0 in 0.72 seconds
+2025-06-18 16:52:13 - INFO - [BATCH] Request 8 processed by worker_0 in 0.70 seconds
+2025-06-18 16:52:14 - INFO - [BATCH] Request 9 processed by worker_0 in 0.71 seconds
+2025-06-18 16:52:14 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:52:23 - INFO - [BATCH] Request 0 processed by worker_0 in 0.71 seconds
+2025-06-18 16:52:24 - INFO - [BATCH] Request 1 processed by worker_0 in 0.73 seconds
+2025-06-18 16:52:25 - INFO - [BATCH] Request 2 processed by worker_0 in 0.72 seconds
+2025-06-18 16:52:25 - INFO - [BATCH] Request 3 processed by worker_0 in 0.73 seconds
+2025-06-18 16:52:26 - INFO - [BATCH] Request 4 processed by worker_0 in 0.95 seconds
+2025-06-18 16:52:27 - INFO - [BATCH] Request 5 processed by worker_0 in 0.88 seconds
+2025-06-18 16:52:28 - INFO - [BATCH] Request 6 processed by worker_0 in 0.83 seconds
+2025-06-18 16:52:29 - INFO - [BATCH] Request 7 processed by worker_0 in 0.81 seconds
+2025-06-18 16:52:30 - INFO - [BATCH] Request 8 processed by worker_0 in 0.85 seconds
+2025-06-18 16:52:30 - INFO - [BATCH] Request 9 processed by worker_0 in 0.75 seconds
+2025-06-18 16:52:30 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:54:23 - INFO - [BATCH] Request 0 processed by worker_0 in 0.81 seconds
+2025-06-18 16:54:24 - INFO - [BATCH] Request 1 processed by worker_0 in 0.94 seconds
+2025-06-18 16:54:25 - INFO - [BATCH] Request 2 processed by worker_0 in 0.80 seconds
+2025-06-18 16:54:26 - INFO - [BATCH] Request 3 processed by worker_0 in 0.71 seconds
+2025-06-18 16:54:26 - INFO - [BATCH] Request 4 processed by worker_0 in 0.74 seconds
+2025-06-18 16:54:27 - INFO - [BATCH] Request 5 processed by worker_0 in 0.74 seconds
+2025-06-18 16:54:28 - INFO - [BATCH] Request 6 processed by worker_0 in 0.72 seconds
+2025-06-18 16:54:29 - INFO - [BATCH] Request 7 processed by worker_0 in 0.71 seconds
+2025-06-18 16:54:29 - INFO - [BATCH] Request 8 processed by worker_0 in 0.70 seconds
+2025-06-18 16:54:30 - INFO - [BATCH] Request 9 processed by worker_0 in 0.75 seconds
+2025-06-18 16:54:30 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:56:33 - INFO - [BATCH] Request 0 processed by worker_0 in 0.80 seconds
+2025-06-18 16:56:33 - INFO - [BATCH] Request 1 processed by worker_0 in 0.78 seconds
+2025-06-18 16:56:34 - INFO - [BATCH] Request 2 processed by worker_0 in 0.87 seconds
+2025-06-18 16:56:35 - INFO - [BATCH] Request 3 processed by worker_0 in 0.92 seconds
+2025-06-18 16:56:36 - INFO - [BATCH] Request 4 processed by worker_0 in 0.86 seconds
+2025-06-18 16:56:37 - INFO - [BATCH] Request 5 processed by worker_0 in 0.85 seconds
+2025-06-18 16:56:38 - INFO - [BATCH] Request 6 processed by worker_0 in 0.71 seconds
+2025-06-18 16:56:38 - INFO - [BATCH] Request 7 processed by worker_0 in 0.74 seconds
+2025-06-18 16:56:39 - INFO - [BATCH] Request 8 processed by worker_0 in 0.71 seconds
+2025-06-18 16:56:40 - INFO - [BATCH] Request 9 processed by worker_0 in 0.74 seconds
+2025-06-18 16:56:40 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:57:07 - INFO - [BATCH] Request 0 processed by worker_0 in 0.79 seconds
+2025-06-18 16:57:08 - INFO - [BATCH] Request 1 processed by worker_0 in 0.71 seconds
+2025-06-18 16:57:09 - INFO - [BATCH] Request 2 processed by worker_0 in 0.72 seconds
+2025-06-18 16:57:10 - INFO - [BATCH] Request 3 processed by worker_0 in 0.71 seconds
+2025-06-18 16:57:10 - INFO - [BATCH] Request 4 processed by worker_0 in 0.71 seconds
+2025-06-18 16:57:11 - INFO - [BATCH] Request 5 processed by worker_0 in 0.73 seconds
+2025-06-18 16:57:12 - INFO - [BATCH] Request 6 processed by worker_0 in 0.74 seconds
+2025-06-18 16:57:13 - INFO - [BATCH] Request 7 processed by worker_0 in 0.79 seconds
+2025-06-18 16:57:13 - INFO - [BATCH] Request 8 processed by worker_0 in 0.72 seconds
+2025-06-18 16:57:14 - INFO - [BATCH] Request 9 processed by worker_0 in 0.70 seconds
+2025-06-18 16:57:14 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 16:57:21 - INFO - [BATCH] Request 0 processed by worker_0 in 0.76 seconds
+2025-06-18 16:57:22 - INFO - [BATCH] Request 1 processed by worker_0 in 0.84 seconds
+2025-06-18 16:57:23 - INFO - [BATCH] Request 2 processed by worker_0 in 0.91 seconds
+2025-06-18 16:57:24 - INFO - [BATCH] Request 3 processed by worker_0 in 0.76 seconds
+2025-06-18 16:57:25 - INFO - [BATCH] Request 4 processed by worker_0 in 0.89 seconds
+2025-06-18 16:57:26 - INFO - [BATCH] Request 5 processed by worker_0 in 0.93 seconds
+2025-06-18 16:57:26 - INFO - [BATCH] Request 6 processed by worker_0 in 0.92 seconds
+2025-06-18 16:57:27 - INFO - [BATCH] Request 7 processed by worker_0 in 0.73 seconds
+2025-06-18 16:57:28 - INFO - [BATCH] Request 8 processed by worker_0 in 0.70 seconds
+2025-06-18 16:57:29 - INFO - [BATCH] Request 9 processed by worker_0 in 0.70 seconds
+2025-06-18 16:57:29 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 17:13:37 - ERROR - Request timed out after 10.0s
+2025-06-18 17:13:37 - ERROR - [TIMEOUT] Request #1 attempt 1 timed out after 10s
+2025-06-18 17:13:37 - ERROR - [TIMEOUT] Request #1 attempt 1 timed out after 10s
+2025-06-18 17:17:36 - INFO - [BATCH] Request 0 processed by worker_0 in 0.80 seconds
+2025-06-18 17:17:37 - INFO - [BATCH] Request 1 processed by worker_0 in 0.86 seconds
+2025-06-18 17:17:37 - INFO - [BATCH] Request 2 processed by worker_0 in 0.78 seconds
+2025-06-18 17:17:38 - INFO - [BATCH] Request 3 processed by worker_0 in 0.74 seconds
+2025-06-18 17:17:39 - INFO - [BATCH] Request 4 processed by worker_0 in 0.73 seconds
+2025-06-18 17:17:40 - INFO - [BATCH] Request 5 processed by worker_0 in 0.72 seconds
+2025-06-18 17:17:40 - INFO - [BATCH] Request 6 processed by worker_0 in 0.75 seconds
+2025-06-18 17:17:41 - INFO - [BATCH] Request 7 processed by worker_0 in 0.70 seconds
+2025-06-18 17:17:42 - INFO - [BATCH] Request 8 processed by worker_0 in 0.71 seconds
+2025-06-18 17:17:42 - INFO - [BATCH] Request 9 processed by worker_0 in 0.70 seconds
+2025-06-18 17:17:42 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 17:17:56 - INFO - [BATCH] Request 0 processed by worker_0 in 0.98 seconds
+2025-06-18 17:17:57 - INFO - [BATCH] Request 1 processed by worker_0 in 0.81 seconds
+2025-06-18 17:17:58 - INFO - [BATCH] Request 2 processed by worker_0 in 0.74 seconds
+2025-06-18 17:17:59 - INFO - [BATCH] Request 3 processed by worker_0 in 0.83 seconds
+2025-06-18 17:17:59 - INFO - [BATCH] Request 4 processed by worker_0 in 0.72 seconds
+2025-06-18 17:18:00 - INFO - [BATCH] Request 5 processed by worker_0 in 0.79 seconds
+2025-06-18 17:18:01 - INFO - [BATCH] Request 6 processed by worker_0 in 0.73 seconds
+2025-06-18 17:18:02 - INFO - [BATCH] Request 7 processed by worker_0 in 0.76 seconds
+2025-06-18 17:18:02 - INFO - [BATCH] Request 8 processed by worker_0 in 0.71 seconds
+2025-06-18 17:18:03 - INFO - [BATCH] Request 9 processed by worker_0 in 0.73 seconds
+2025-06-18 17:18:03 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 17:42:05 - INFO - [BATCH] Request 0 processed by worker_0 in 0.93 seconds
+2025-06-18 17:42:06 - INFO - [BATCH] Request 1 processed by worker_0 in 0.75 seconds
+2025-06-18 17:42:06 - INFO - [BATCH] Request 2 processed by worker_0 in 0.72 seconds
+2025-06-18 17:42:07 - INFO - [BATCH] Request 3 processed by worker_0 in 0.72 seconds
+2025-06-18 17:42:08 - INFO - [BATCH] Request 4 processed by worker_0 in 0.72 seconds
+2025-06-18 17:42:09 - INFO - [BATCH] Request 5 processed by worker_0 in 0.97 seconds
+2025-06-18 17:42:10 - INFO - [BATCH] Request 6 processed by worker_0 in 0.83 seconds
+2025-06-18 17:42:10 - INFO - [BATCH] Request 7 processed by worker_0 in 0.71 seconds
+2025-06-18 17:42:11 - INFO - [BATCH] Request 8 processed by worker_0 in 0.71 seconds
+2025-06-18 17:42:12 - INFO - [BATCH] Request 9 processed by worker_0 in 0.71 seconds
+2025-06-18 17:42:12 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 18:02:48 - INFO - [BATCH] Request 0 processed by worker_0 in 0.80 seconds
+2025-06-18 18:02:49 - INFO - [BATCH] Request 1 processed by worker_0 in 0.94 seconds
+2025-06-18 18:02:50 - INFO - [BATCH] Request 2 processed by worker_0 in 0.81 seconds
+2025-06-18 18:02:51 - INFO - [BATCH] Request 3 processed by worker_0 in 0.84 seconds
+2025-06-18 18:02:52 - INFO - [BATCH] Request 4 processed by worker_0 in 0.78 seconds
+2025-06-18 18:02:52 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0
+2025-06-18 18:03:48 - INFO - [BATCH] Request 0 processed by worker_0 in 6.07 seconds
+2025-06-18 18:03:49 - INFO - [BATCH] Request 1 processed by worker_0 in 0.76 seconds
+2025-06-18 18:03:49 - INFO - [BATCH] Request 2 processed by worker_0 in 0.83 seconds
+2025-06-18 18:03:50 - INFO - [BATCH] Request 3 processed by worker_0 in 0.78 seconds
+2025-06-18 18:03:51 - INFO - [BATCH] Request 4 processed by worker_0 in 0.72 seconds
+2025-06-18 18:03:52 - INFO - [BATCH] Request 5 processed by worker_0 in 0.71 seconds
+2025-06-18 18:03:52 - INFO - [BATCH] Request 6 processed by worker_0 in 0.72 seconds
+2025-06-18 18:03:53 - INFO - [BATCH] Request 7 processed by worker_0 in 0.71 seconds
+2025-06-18 18:03:53 - ERROR - Request timed out after 11.5625s
+2025-06-18 18:03:53 - ERROR - Request timed out after 11.5625s
+2025-06-18 18:03:54 - INFO - [BATCH] Request 8 processed by worker_0 in 0.72 seconds
+2025-06-18 18:03:55 - INFO - [BATCH] Request 9 processed by worker_0 in 0.72 seconds
+2025-06-18 18:03:55 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 18:18:59 - INFO - [BATCH] Request 0 processed by worker_0 in 0.97 seconds
+2025-06-18 18:19:01 - INFO - [BATCH] Request 1 processed by worker_0 in 1.23 seconds
+2025-06-18 18:19:01 - INFO - [BATCH] Request 2 processed by worker_0 in 0.72 seconds
+2025-06-18 18:19:02 - INFO - [BATCH] Request 3 processed by worker_0 in 0.72 seconds
+2025-06-18 18:19:03 - INFO - [BATCH] Request 4 processed by worker_0 in 0.74 seconds
+2025-06-18 18:19:04 - INFO - [BATCH] Request 5 processed by worker_0 in 0.85 seconds
+2025-06-18 18:19:05 - INFO - [BATCH] Request 6 processed by worker_0 in 0.89 seconds
+2025-06-18 18:19:05 - INFO - [BATCH] Request 7 processed by worker_0 in 0.75 seconds
+2025-06-18 18:19:06 - INFO - [BATCH] Request 8 processed by worker_0 in 0.74 seconds
+2025-06-18 18:19:07 - INFO - [BATCH] Request 9 processed by worker_0 in 0.70 seconds
+2025-06-18 18:19:07 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 18:21:19 - ERROR - Request timed out after 10.0s
+2025-06-18 18:21:19 - ERROR - [TIMEOUT] Request #1 attempt 1 timed out after 10s
+2025-06-18 18:21:20 - ERROR - Request timed out after 10.15625s
+2025-06-18 18:25:53 - INFO - [BATCH] Request 0 processed by worker_0 in 0.82 seconds
+2025-06-18 18:25:54 - INFO - [BATCH] Request 1 processed by worker_0 in 0.78 seconds
+2025-06-18 18:25:55 - INFO - [BATCH] Request 2 processed by worker_0 in 0.73 seconds
+2025-06-18 18:25:56 - INFO - [BATCH] Request 3 processed by worker_0 in 0.84 seconds
+2025-06-18 18:25:56 - INFO - [BATCH] Request 4 processed by worker_0 in 0.91 seconds
+2025-06-18 18:25:57 - INFO - [BATCH] Request 5 processed by worker_0 in 0.90 seconds
+2025-06-18 18:25:58 - INFO - [BATCH] Request 6 processed by worker_0 in 0.89 seconds
+2025-06-18 18:25:59 - INFO - [BATCH] Request 7 processed by worker_0 in 0.75 seconds
+2025-06-18 18:26:00 - INFO - [BATCH] Request 8 processed by worker_0 in 0.79 seconds
+2025-06-18 18:26:01 - INFO - [BATCH] Request 9 processed by worker_0 in 0.73 seconds
+2025-06-18 18:26:01 - INFO - [BATCH] Completed batch of 10 requests. Failed: 0
+2025-06-18 18:26:21 - INFO - [BATCH] Request 0 processed by worker_0 in 0.71 seconds
+2025-06-18 18:26:21 - INFO - [BATCH] Request 1 processed by worker_0 in 0.76 seconds
+2025-06-18 18:26:22 - INFO - [BATCH] Request 2 processed by worker_0 in 0.82 seconds
+2025-06-18 18:26:23 - INFO - [BATCH] Request 3 processed by worker_0 in 0.74 seconds
+2025-06-18 18:26:24 - INFO - [BATCH] Request 4 processed by worker_0 in 0.72 seconds
+2025-06-18 18:26:24 - INFO - [BATCH] Completed batch of 5 requests. Failed: 0

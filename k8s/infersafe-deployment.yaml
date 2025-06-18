@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: infersafe
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: infersafe
+  template:
+    metadata:
+      labels:
+        app: infersafe
+    spec:
+      containers:
+      - name: infersafe
+        image: hindol007/infersafe:latest
+        ports:
+        - containerPort: 8000

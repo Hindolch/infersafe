@@ -1,0 +1,13 @@
+2025-06-18 17:42:22 - ERROR - Request timed out after 10.15625s
+2025-06-18 17:44:26 - ERROR - Request timed out after 10.15625s
+2025-06-18 17:58:09 - ERROR - Request timed out after 10.15625s
+2025-06-18 18:01:51 - ERROR - Request timed out after 10.15625s
+2025-06-18 18:04:04 - ERROR - Request timed out after 10.15625s
+2025-06-18 18:08:24 - ERROR - Request timed out after 10.15625s
+2025-06-18 18:10:18 - ERROR - [TIMEOUT] Request #1 attempt 1 timed out after 10s
+2025-06-18 18:18:17 - INFO - [BATCH] Request 0 processed by worker_0 in 0.01 seconds
+2025-06-18 18:18:17 - INFO - [BATCH] Completed batch of 1 requests. Failed: 0
+2025-06-18 18:19:07 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-18 18:19:07 - INFO - [BATCH] Completed batch of 1 requests. Failed: 0
+2025-06-18 18:26:01 - INFO - [BATCH] Request 0 processed by worker_0 in 0.00 seconds
+2025-06-18 18:26:01 - INFO - [BATCH] Completed batch of 1 requests. Failed: 0
