@@ -1,6 +1,15 @@
 from llama_cpp import Llama
 import asyncio
 import logging
+from pathlib import Path
+
+MODEL_PATH = Path("models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf")
+
+def load_model():
+    if not MODEL_PATH.exists():
+        logging.warning("[WARN] Model file not found. Skipping model load.")
+        return None
+    return TinyLLamaModel(str(MODEL_PATH))
 
 class TinyLLamaModel:
     def __init__(self, model_path: str):
@@ -8,7 +17,7 @@ class TinyLLamaModel:
             model_path=model_path,
             n_ctx=2048,
             n_threads=4,
-            n_gpu_layers=0  # Changed from -1
+            n_gpu_layers=0
         )
 
     async def generate(self, prompt: str, max_tokens: int = 128):
@@ -17,7 +26,6 @@ class TinyLLamaModel:
 
     def _sync_generate(self, prompt: str, max_tokens: int = 128):
         try:
-            # Synchronous version for compatibility with the Llama API
             messages = [{"role": "user", "content": prompt}]
             response = ""
             for output in self.llm.create_chat_completion(messages=messages, max_tokens=max_tokens, stream=True):
@@ -28,6 +36,7 @@ class TinyLLamaModel:
         except Exception as e:
             logging.error(f"[MODEL ERROR] {e}")
             raise
+
 
     def scale_down(self):
         if len(self.models) > 1:

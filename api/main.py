@@ -18,6 +18,13 @@ from prometheus_client import make_asgi_app
 import os
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from models.inference_engine import load_model
+
+if os.getenv("TESTING") == "1":
+    from unittest.mock import AsyncMock
+    model_worker = AsyncMock()
+else:
+    model_worker = load_model()
 
 
 NUM_MODEL_WORKERS = 3

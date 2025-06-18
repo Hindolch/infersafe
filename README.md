@@ -142,6 +142,21 @@ InferSafe was built to showcase:
 
 ---
 
+---
+
+## 🧪 Running Tests
+
+Some tests involving actual inference are skipped by default if the model file (`.gguf`) is missing.
+
+To enable full testing:
+
+1. Download the `tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf` model from [llama.cpp models](https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF)  
+2. Place it in the `models/` directory.
+
+```bash
+pytest tests/
+
+
 ## 👨‍💻 Author
 
 **Hindol R. Choudhury @InferSafe**
