@@ -33,11 +33,8 @@ REQUEST_COUNT = Counter("inference_requests_total", "Total number of inference r
 RETRY_COUNT = Counter("inference_retries_total", "Total number of retries")
 INFERENCE_LATENCY = Histogram("inference_request_duration_seconds", "Duration of inference requests")
 
-
-
 MAX_RETRIES = 5
 INFERENCE_TIMEOUT = 10  # seconds
-
 
 MODEL_PATH = os.path.join(os.path.dirname(__file__), "..", "models", "tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf")
 MODEL_PATH = os.path.abspath(MODEL_PATH)
@@ -47,9 +44,14 @@ model_manager = MultiModelManager(
     num_workers=NUM_MODEL_WORKERS,
     model_path=MODEL_PATH
 )
-model_worker = model_manager.get_least_busy_model()  # Get the least model worker
-autoscaler = Autoscaler(model_manager, scale_interval=5)  # Autoscaler instance
 
+# model_worker = model_manager.get_least_busy_model()  # ❌ Replaced by get_model_worker for better testability
+
+# ✅ New: Use this getter so we can easily mock it in tests
+def get_model_worker():
+    return model_manager.get_least_busy_model()
+
+autoscaler = Autoscaler(model_manager, scale_interval=5)  # Autoscaler instance
 
 app = FastAPI()
 
@@ -64,7 +66,6 @@ request_manager = RequestQueueManager()
 class GenerateRequest(BaseModel):
     prompt: str
     max_tokens: int = 128
-
 
 @app.on_event("startup")
 async def on_startup():
@@ -86,7 +87,7 @@ async def process_batch(batch: list[BatchedRequest]):
         for attempt in range(MAX_RETRIES + 1):
             start = time.time()
             try:
-                worker = model_manager.get_least_busy_model()
+                worker = get_model_worker()  # ✅ Use the getter here
                 token_stream = await asyncio.wait_for(
                     worker.generate(req.prompt, req.max_tokens),
                     timeout=INFERENCE_TIMEOUT
@@ -114,7 +115,6 @@ async def process_batch(batch: list[BatchedRequest]):
         if not success and not req.future.done():
             req.future.set_exception(Exception("Inference failed after all retries"))
     
-    # Log batch completion stats
     logger.info(f"[BATCH] Completed batch of {len(batch)} requests. Failed: {len(failed_requests)}")
 
 @app.post("/generate-batch")
@@ -125,11 +125,11 @@ async def generate_via_batch(request: GenerateRequest):
         await process_batch([req])
         result = await future
         return PlainTextResponse(result)
+
     future = request_manager.enqueue(request.prompt, request.max_tokens)
 
     async def stream():
         try:
-            # Increase timeout based on queue size
             queue_size = len(request_manager.queue)
             dynamic_timeout = min(30.0, 10.0 + (queue_size / BATCH_SIZE_LIMIT) * 5.0)
             
@@ -145,8 +145,6 @@ async def generate_via_batch(request: GenerateRequest):
             yield f"Error: {type(e).__name__}: {str(e)}".encode()
 
     return StreamingResponse(stream(), media_type="text/plain")
-
-
 
 @app.post("/reload-model")
 def reload_model():
