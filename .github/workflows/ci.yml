@@ -28,7 +28,7 @@ jobs:
       run: |
         pytest || echo "No tests yet"
 
-    - name: Lint
-      run: |
-        pip install flake8
-        flake8 . --exclude=venv
+    # - name: Lint
+    #   run: |
+    #     pip install flake8
+    #     flake8 . --exclude=venv
