@@ -42,6 +42,13 @@ InferSafe is composed of:
 
 ---
 
+## 🎥 Workflow animation video
+
+
+https://github.com/user-attachments/assets/cd8be5ab-58c6-41c6-b208-51c19d7b61a0
+
+
+
 ## 📷 Screenshots (Swagger UI)
 
 > Demonstrating working endpoints:
