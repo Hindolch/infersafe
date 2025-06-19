@@ -46,9 +46,20 @@ InferSafe is composed of:
 
 > Demonstrating working endpoints:
 
+![Screenshot from 2025-06-18 22-44-21](https://github.com/user-attachments/assets/28ba9c25-8767-4a4d-a78e-41c3f775d6c4)
+
 - `/generate-batch`: Returns a generated response from the model.
+
+![Screenshot from 2025-06-18 22-45-17](https://github.com/user-attachments/assets/ba337b03-71bf-4a0c-a436-b488d0299ce4)
+![Screenshot from 2025-06-18 22-46-01](https://github.com/user-attachments/assets/9234d56c-8005-469d-b992-d03e2048abd0)
+
+
 - `/reload-model`: Dynamically reloads the model on failure.
+![Screenshot from 2025-06-18 22-47-58](https://github.com/user-attachments/assets/1ee0a39d-8f31-41af-a26f-6d583409f9bf)
+
 - `/metrics`: Exposes Prometheus-compatible metrics.
+![Screenshot from 2025-06-18 22-46-44](https://github.com/user-attachments/assets/594c1ea6-5ba6-4bc9-8993-acfd7a0dd570)
+![Screenshot from 2025-06-18 22-46-48](https://github.com/user-attachments/assets/68363aec-663e-499d-9294-d4b7ad709344)
 
 
 ## ⚙️ Simulated Autoscaling Logic
@@ -87,7 +98,7 @@ Open your browser at `http://localhost:8000/docs`
 
 ## ⚠️ Design Note on System Constraints
 
-> This project was developed under limited local hardware constraints (8GB RAM, 4GB GPU), which restricted the use of large-scale LLMs or multi-GPU setups.
+> This project was developed under limited local hardware constraints (8GB RAM, 4GB GPU), which restricted the use of large-scale LLMs or multi-GPU setups. And in load_test file I've tried to simulate real world scenario by passing in 10 prompts all together!
 >
 > As a result, the system **simulates**:
 >
